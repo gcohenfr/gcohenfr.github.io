@@ -5,19 +5,19 @@ subtitle: An amalgamation of all my publications
 ---
 
 # Refereed Publications
-Additional notes about impact and authorship contribution are added to selected articles. Unless otherwise specified, the citation convention is that the most significant contributor appears first and the senior author last in multi-authored publications. The name of students that work under my supervision are underlined.
+Additional notes about impact and authorship contribution are added to selected articles. Unless otherwise specified, the citation convention is that the most significant contributor appears first and the senior author last in multi-authored publications. The name of students that work under my supervision are *italicized*.
 
 ## Work Submitted
-__Mandeep Takhar__, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS One* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017. ***Senior author***.
+*Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS One* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017. ***Senior author***.
 
-__Nikolaus Fortelny__, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Pitfalls in protein prediction from mRNA. Submitted to *Nature* on March 16th, 2016. Resubmitted on November 2nd, 2016. ***Senior author***.
+*Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Pitfalls in protein prediction from mRNA. Submitted to *Nature* on March 16th, 2016. Resubmitted on November 2nd, 2016. ***Senior author***.
 
-Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, Merrill Boyle, Barbara Meissner, Pedro Farinha, Graham Slack, Susana Ben Neriah, Daniel Lai, Allen Zhang, Hennady Shulha, Fong Chun Chan, Robert Kridel, __Derek Chiu__, Sara Mostafavi, ***Gabriela Cohen Freue***, Alina Gerrie, Diego Villa, Laurie Sehn, Kerry Savage, Andrew Mungall, Ryan Morin, Joseph Connors, Christian Steidl, Marco Marra, Sohrab Shah, Randy Gascoyne, David Dominguez-Sola. Cell of origin-specific genetic alterations and chromosomal instability have therapeutic and immunologic impact in diffuse large B-cell lymphoma. Submitted to *Nature Communications* on December 2nd, 2016. Invited to revise and resubmit. Contributed with one of the statistical methodologies and analysis in the paper.
+Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, Merrill Boyle, Barbara Meissner, Pedro Farinha, Graham Slack, Susana Ben Neriah, Daniel Lai, Allen Zhang, Hennady Shulha, Fong Chun Chan, Robert Kridel, *Derek Chiu*, Sara Mostafavi, ***Gabriela Cohen Freue***, Alina Gerrie, Diego Villa, Laurie Sehn, Kerry Savage, Andrew Mungall, Ryan Morin, Joseph Connors, Christian Steidl, Marco Marra, Sohrab Shah, Randy Gascoyne, David Dominguez-Sola. Cell of origin-specific genetic alterations and chromosomal instability have therapeutic and immunologic impact in diffuse large B-cell lymphoma. Submitted to *Nature Communications* on December 2nd, 2016. Invited to revise and resubmit. Contributed with one of the statistical methodologies and analysis in the paper.
 
-__Singh, Amrit__, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Submitted on January 13th, 2017.
+*Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Submitted on January 13th, 2017.
 
 ## 2012 -- Present (228 citations in Google Scholar)
-Tremlett H, __Dai DLY__, Hollander Z, Kapanen A, Aziz T, Wilson-McManus JE, Tebbutt SJ, Borchers CH, Oger J, ***Cohen Freue GV***. (2015) Serum proteomics in multiple sclerosis disease progression, *Journal of Proteomics* ***118***, 2-11.
+Tremlett H, *Dai DLY*, Hollander Z, Kapanen A, Aziz T, Wilson-McManus JE, Tebbutt SJ, Borchers CH, Oger J, ***Cohen Freue GV***. (2015) Serum proteomics in multiple sclerosis disease progression, *Journal of Proteomics* ***118***, 2-11.
 
 > NOTE: As the principal investigator and senior author in this paper, my role was to lead this collaboration with Dr. Tremlett’s group. Further, I designed and supervised the proteomics experiment, directed and supervised the statistical analysis conducted by Darlene Dai (UBC MSc student in Statistics), wrote several sections of the manuscript, and led the revision process. Cited 5 times (Google Scholar, January 25th, 2017).
 
@@ -27,7 +27,7 @@ Hollander Z, Lazarova M, Lam KKY, Ignaszewski A, Oudit GY, Dyck J, Schreiner G, 
 
 > NOTE: An R-package to apply the proposed estimator is available in CRAN (riv). I was the main contributor to methodology, analysis and manuscript preparation. Biometrics is a top-journal in Statistics. The paper has been cited 8 times (Google Scholar, January 25th, 2017).
 
-***Gabriela V. Cohen Freue***, Anna Meredith, Derek Smith, Axel Bergman, Mayu Sasaki, Karen K.Y. Lam, Zsuzsanna Hollander, Nina Opushneva, __Mandeep Takhar__, David Lin, Janet Wilson-McManus, Robert Balshaw,  Paul Kewon, Christoph H. Borchers, Bruce McManus, Raymond T. Ng, W. Robert McMaster. (2013) Computational biomarker pipeline from discovery to clinical implementation: plasma proteomic biomarkers for cardiac transplantation. *PLoS Computational Biology* ***9(4)***: e1002963.
+***Gabriela V. Cohen Freue***, Anna Meredith, Derek Smith, Axel Bergman, Mayu Sasaki, Karen K.Y. Lam, Zsuzsanna Hollander, Nina Opushneva, *Mandeep Takhar*, David Lin, Janet Wilson-McManus, Robert Balshaw,  Paul Kewon, Christoph H. Borchers, Bruce McManus, Raymond T. Ng, W. Robert McMaster. (2013) Computational biomarker pipeline from discovery to clinical implementation: plasma proteomic biomarkers for cardiac transplantation. *PLoS Computational Biology* ***9(4)***: e1002963.
 
 > NOTE: I developed the computational pipeline proposed in the manuscript, performed the statistical analysis of the case studies, and wrote most of the manuscript. PLoS Computational Biology is an open-access, peer-reviewed, and leading journal in the field (impact factor 4.6). Cited 16 times (Google Scholar, January 25th, 2017).
 
@@ -37,11 +37,11 @@ Lin D\*, ***Cohen Freue G***\*, Hollander Z, Mancini GBJ, Sasaki M, Mui  A, Wils
 
 Hollander Z, Chen V, Lin D, Ng R.T., Balshaw R, ***Cohen Freue G***, Ignaszewski A, Imai C, Kaan A, Wilson-McManus J, McMaster R, Keown P, McManus BM. (2013) Predicting acute cardiac allograft rejection using donor and recipient gene expression. *J Heart Lung Transplant* ***32***, 259-65.
 
-Oliver P. Günther, Virginia Chen, ***Gabriela Cohen Freue***, Robert F. Balshaw, Scott. J. Tebbutt, Zsuzsanna Hollander, __Mandeep Takhar__, W. Robert McMaster, Bruce M. McManus, Paul A. Keown, Raymond T. Ng. (2012) A computational pipeline for the development of multi-marker biosignature panels and ensemble classifiers. *BMC Bioinformatics* ***13***:326.
+Oliver P. Günther, Virginia Chen, ***Gabriela Cohen Freue***, Robert F. Balshaw, Scott. J. Tebbutt, Zsuzsanna Hollander, *Mandeep Takhar*, W. Robert McMaster, Bruce M. McManus, Paul A. Keown, Raymond T. Ng. (2012) A computational pipeline for the development of multi-marker biosignature panels and ensemble classifiers. *BMC Bioinformatics* ***13***:326.
 
 > NOTE: I developed and wrote the section of the pipeline and manuscript related to proteomics. Cited 7 times (Google Scholar, January 25th, 2017).
 
-__Singh, Amrit__; ***Cohen-Freue, Gabriela***; Oosthuizen, Jean; Kam, Sarah; Ruan, Jian; __Takhar, Mandeep__; Gauvreau, Gail; O'Byrne, Paul; Fitzgerald, Mark; Boulet, Louis-Philippe; Borchers, Christoph; Tebbutt, Scott. (2012) Plasma proteomics can discriminate isolated early from dual responses in asthmatic individuals undergoing an allergen inhalation challenge. *Proteomics Clinical Applications* ***6***, 476-485.
+*Singh, Amrit*; ***Cohen-Freue, Gabriela***; Oosthuizen, Jean; Kam, Sarah; Ruan, Jian; *Takhar, Mandeep*; Gauvreau, Gail; O'Byrne, Paul; Fitzgerald, Mark; Boulet, Louis-Philippe; Borchers, Christoph; Tebbutt, Scott. (2012) Plasma proteomics can discriminate isolated early from dual responses in asthmatic individuals undergoing an allergen inhalation challenge. *Proteomics Clinical Applications* ***6***, 476-485.
 
 > NOTE: Amrit Singh and Mandeep Takhar worked under my supervision on the statistical analysis of the paper. Cited 10 times (Google Scholar, January 25th, 2017).
 
