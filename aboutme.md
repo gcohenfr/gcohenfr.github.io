@@ -8,12 +8,11 @@ My research work is interdisciplinary merging components from mathematical stati
 
 
 ## Contact Information
-
-***Earth Science Building 3146***, *University of British Columbia*
-2207 Main Mall, Vancouver, BC, Canada, V6S 1K4
-
 ***office***: 604-822-3710
 
 ***fax***: 604-822-6960
 
 ***e-mail***: gcohen@stat.ubc.ca
+
+***Earth Science Building 3146***, *University of British Columbia*
+2207 Main Mall, Vancouver, BC, Canada, V6S 1K4
