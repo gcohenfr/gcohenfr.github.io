@@ -26,7 +26,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #000080;
 }
 blockquote {
   color: #808080;
@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #000080;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -318,7 +318,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #000080;
 }
 
 .post-preview .post-title {
@@ -389,7 +389,7 @@ footer .theme-by {
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #000080;
   background-color: #CCC;
 }
 
@@ -585,8 +585,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+  background: #000080;
+  border: 1px solid #000080;
 }
 
 .pager {
