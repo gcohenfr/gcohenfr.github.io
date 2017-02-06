@@ -3,9 +3,6 @@ layout: page
 title: Gabriela V. Cohen Freue
 ---
 
-UBC Statistics | Assistant Professor | Canada Research Chair Tier 2
-------------- | ------------- | ---------
-
 ## UBC Statistics
 
 ## Assistant Professor
