@@ -15,7 +15,8 @@ Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, 
 
 *Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Submitted on January 13th, 2017.
 
-## Refereed Publications: 2012 -- Present (228 citations in Google Scholar)
+## Refereed Publications: 2012 -- Present 
+### 228 citations in Google Scholar
 Tremlett H, *Dai DLY*, Hollander Z, Kapanen A, Aziz T, Wilson-McManus JE, Tebbutt SJ, Borchers CH, Oger J, ***Cohen Freue GV***. (2015) Serum proteomics in multiple sclerosis disease progression, *Journal of Proteomics* ***118***, 2-11.
 
 Hollander Z, Lazarova M, Lam KKY, Ignaszewski A, Oudit GY, Dyck J, Schreiner G, Pauwels J, Chen V, ***Cohen Freue GV***, Ng RT, Wilson-McManus J, Balshaw R, Tebbutt S, McMaster R, Keown PA, McManus BM. (2014) Proteomic Biomarkers of Recovered Heart Function. *Eur J Heart Fail.* ***5***, 551-559.
