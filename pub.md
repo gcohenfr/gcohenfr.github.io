@@ -4,8 +4,7 @@ title: Publications
 subtitle: An amalgamation of all my publications
 ---
 
-# Refereed Publications
-Additional notes about impact and authorship contribution are added to selected articles. Unless otherwise specified, the citation convention is that the most significant contributor appears first and the senior author last in multi-authored publications. The name of students that work under my supervision are *italicized*.
+The name of students that work under my supervision are *italicized*.
 
 ## Work Submitted
 *Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS One* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017.
@@ -16,7 +15,7 @@ Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, 
 
 *Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Submitted on January 13th, 2017.
 
-## 2012 -- Present (228 citations in Google Scholar)
+## Refereed Publications: 2012 -- Present (228 citations in Google Scholar)
 Tremlett H, *Dai DLY*, Hollander Z, Kapanen A, Aziz T, Wilson-McManus JE, Tebbutt SJ, Borchers CH, Oger J, ***Cohen Freue GV***. (2015) Serum proteomics in multiple sclerosis disease progression, *Journal of Proteomics* ***118***, 2-11.
 
 Hollander Z, Lazarova M, Lam KKY, Ignaszewski A, Oudit GY, Dyck J, Schreiner G, Pauwels J, Chen V, ***Cohen Freue GV***, Ng RT, Wilson-McManus J, Balshaw R, Tebbutt S, McMaster R, Keown PA, McManus BM. (2014) Proteomic Biomarkers of Recovered Heart Function. *Eur J Heart Fail.* ***5***, 551-559.
