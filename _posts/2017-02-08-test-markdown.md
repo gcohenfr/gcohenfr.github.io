@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Gabriela V. Cohen Freue
 subtitle: Department of Statistics, University of British Columbia
 ---
