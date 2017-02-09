@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: An amalgamation of all my publications
+subtitle: List of my most recent publications
 ---
 
 The name of students that work under my supervision are *italicized*.
@@ -39,5 +39,3 @@ Dominik Domanski, Andrew J. Percy, Juncong Yang, Andrew G. Chambers, John S. Hil
 Dominik Domanski\*, ***Gabriela V. Cohen Freue***\*, Luis Sojo, Michael A. Kuzyk, Leslie Ratkay, Carol E. Parker, Y. Paul Goldberg, and Christoph H. Borchers. (2011) The Use of Multiplexed MRM for the Discovery of Biomarkers to Differentiate Iron-deficiency Anemia from Anemia of Inflammation. *Journal of Proteomics* JPROT-D-11-00502.\*Equal contributors.
 
 ***Gabriela V. Cohen Freue*** and Christoph H. Borchers. (2012) Multiple Reaction Monitoring (MRM) – Principles and Application to Coronary Artery Disease. *Circulation: Cardiovascular Genetics* ***5***, 378.
-
-# Before 2012: (522 citations in Google Scholar)
