@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaborations
-subtitle: List of all my collaborative works
+subtitle: List of my most recent collaborations
 ---
 
 # Genetic mutations in DLBCL
