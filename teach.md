@@ -7,8 +7,9 @@ subtitle:
 My main goal at teaching is that the students seek a deep understanding of new or relevant concepts, which I pursue by encouraging active learning and bringing to the classroom real world problems. It is important that students not only learn and review statistical concepts, but also grasp their relevance and need to solve meaningful problems.
 
 ## [STAT450](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=450): Case Studies in Statistics
+### 2012-present
 
-Statistics undergraduate students taking this case studies capstone course analyze real data provided by a researcher from a different discipline. More information on cases eligibility is available [here](https://www.stat.ubc.ca/how-can-you-get-help-your-data). The course is offered in the 2nd term of each year (January through April). I have been teaching this course since January of 2012.
+Statistics undergraduate students taking this case studies capstone course analyze real data provided by a researcher from a different discipline. More information on cases eligibility is available [here](https://www.stat.ubc.ca/how-can-you-get-help-your-data).
 
 The main learning objective of the course are:  
 -	to critically appraise study designs and data
