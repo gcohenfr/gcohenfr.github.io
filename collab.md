@@ -11,7 +11,7 @@ My research group is currently collaborating with Dr. Randy Gascoyne, Dr. David 
 Together with Dr. Scott Tebbutt, from iCAPTURE and PROOF Centre, we are working on the analysis of genomics and proteomics data from patients with allergic asthma. Through this collaboration we have built a comprehensive analytical pipeline to identify and validate molecular markers of different asthmatic phenotypes in order to characterize the molecular mechanisms related to allergic asthma.
 
 # Proteomics in multiple sclerosis
-<img style="float: left;" src="/img/GraphicalAbstract.png" height="250" width="350">
+<img style="float: right;" src="/img/GraphicalAbstract.png" height="250" width="350">
 I have collaborated with Dr. Helen Tremlett, from the Pharmacoepidemiology in Multiple Sclerosis Research Group (UBC), working on a proteomics study of Multiple Sclerosis. Using advanced technological methods and an elastic net model, we identified and built a score based on a panel of 11 proteins to classify samples from MS patients into two extreme MS phenotypic groups (benign and aggressive cases of MS) with high estimated sensitivity and specificity. Our study was one of the first ones to explore the joint association of multiple proteins with MS disease progression serum samples.  
 
 # Proteomics in cardiovascular diseases
