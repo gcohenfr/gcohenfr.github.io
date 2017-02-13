@@ -24,4 +24,11 @@ The overall objective of this course is to train students to develop the skills 
 -	oral and written skills that facilitate communication with clients
 -	working knowledge to participate in interdisciplinary collaborative models and statistical consulting
 
-## STAT540: Statistical Methods for High Dimensional Biology
+## [STAT540](https://stat540-ubc.github.io): Statistical Methods for High Dimensional Biology
+
+This course aims to provide the students with modern and up-to-date statistical tools to analyze genomics and epigenetics data, including empirical bayes linear models estimation and inference, principal component analysis, cluster analysis, classification and regularized regression, gene set analysis, resampling and bootstrapping. I taught this course from 2013 till 2015. In 2015, I've built the Github organization repository that hosts the course website, students repositories, and all the course material. The learning objectives of the course are:
+
+- to develop a primary background in molecular biology and statistical techniques that are particularly relevant for the analysis of genomics data
+- to examine typical problems of high throughput biological data
+- to explore, visualize, and analyze large datasets emphasizing on the reproducibility of the analysis
+- to promote interdisciplinary and collaborative work
