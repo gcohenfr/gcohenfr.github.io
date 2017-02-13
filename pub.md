@@ -4,7 +4,7 @@ title: Publications
 subtitle: List of my most recent publications
 ---
 
-The name of students that work under my supervision are *italicized*.
+A full list of publications and contributions is available in my [CV](https://github.com/gcohenfr/gcohenfr.github.io/blob/master/shortCV.pdf). The name of students that work under my supervision are *italicized*.
 
 ## Work Submitted
 *Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS One* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017.
@@ -48,8 +48,7 @@ Oliver P. Günther, Virginia Chen, ***Gabriela Cohen Freue***, Robert F. Balshaw
 *Singh, Amrit*; ***Cohen-Freue, Gabriela***; Oosthuizen, Jean; Kam, Sarah; Ruan, Jian; *Takhar, Mandeep*; Gauvreau, Gail; O'Byrne, Paul; Fitzgerald, Mark; Boulet, Louis-Philippe; Borchers, Christoph; Tebbutt, Scott. (2012) Plasma proteomics can discriminate isolated early from dual responses in asthmatic individuals undergoing an allergen inhalation challenge. *Proteomics Clinical Applications* ***6***, 476-485.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22930592)
 
-
-Dominik Domanski, Andrew J. Percy, Juncong Yang, Andrew G. Chambers, John S. Hill, ***Gabriela V. Cohen Freue***, and Christoph H. Borchers. (2012) MRM-based Multiplexed Quantitation of 67 Putative Cardiovascular Disease Biomarkers in Human Plasma. *Proteomics* ***12***, 1222-1243.
+Domanski D, Percy AJ, Yang J, Chambers AG, Hill JS, ***Freue GV***, Borchers CH. (2012) MRM-based Multiplexed Quantitation of 67 Putative Cardiovascular Disease Biomarkers in Human Plasma. *Proteomics* ***12***, 1222-1243.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22577024)
 
 
@@ -59,3 +58,16 @@ Dominik Domanski\*, ***Gabriela V. Cohen Freue***\*, Luis Sojo, Michael A. Kuzyk
 
 ***Gabriela V. Cohen Freue*** and Christoph H. Borchers. (2012) Multiple Reaction Monitoring (MRM) – Principles and Application to Coronary Artery Disease. *Circulation: Cardiovascular Genetics* ***5***, 378.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22715283)
+
+## Selected Publications: prior to 2012
+
+***Freue GV***, Sasaki M, Meredith A, Günther OP, Bergman A, Takhar M, Mui A, Balshaw RF, Ng RT, Opushneva N, Hollander Z, Li G, Borchers CH, Wilson-McManus J, McManus BM, Keown PA, McMaster WR (2010) Proteomic signatures in plasma during early acute renal allograft rejection. *Mol Cell Proteomics* ***9*** 1954-1967. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20501940) 
+
+***Cohen Freue GV***,  Hollander Z, Shen E, Zamar RH, Balshaw R, Scherer A, McManus B, Keown P, McMaster WR, Ng RT. (2007)  MDQC: a new quality assessment method for microarrays based on quality control reports. *Bioinformatics* ***23***, 3162-3169. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933854) 
+
+***Gabriela V. Cohen Freue***. (2007) The Pitman Estimator of the Cauchy Location Parameter. *Journal of Statistical Planning and Inference* ***137*** 1900-1913.[link](http://www.sciencedirect.com/science/article/pii/S0378375806001285)
+
+***Cohen-Freue, G***; Holzer, TR; Forney, JD; McMaster, WR. (2007) Global Gene Expression in Leishmania. *International Journal for Parasitology* ***37*** 1077-1086. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17574557)
+
+Leifso, K; ***Cohen-Freue, G***; Dogra, N; Murray, A; McMaster, WR. (2007) Genomic and Proteomic Expression Analysis of Leishmania Promastigote and Amastigote Life Stages: The Leishmania Genome is Constitutively Expressed. *Molecular and Biochemical Parasitology* ***152***, 35-46. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17188763)
+
