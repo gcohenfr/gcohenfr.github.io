@@ -4,15 +4,15 @@ title: Collaborations
 subtitle: List of my most recent collaborations
 ---
 
+# Proteomics in multiple sclerosis
+<img style="float: right;" src="/img/GraphicalAbstract.png" height="250" width="350">
+I have collaborated with Dr. Helen Tremlett, from the Pharmacoepidemiology in Multiple Sclerosis Research Group (UBC), working on a proteomics study of Multiple Sclerosis. Using advanced technological methods and an elastic net model, we identified and built a score based on a panel of 11 proteins to classify samples from MS patients into two extreme MS phenotypic groups (benign and aggressive cases of MS) with high estimated sensitivity and specificity. Our study was one of the first ones to explore the joint association of multiple proteins with MS disease progression serum samples. Image from Tremlett et al., *Journal of Proteomics* ***118***, 2-11. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25753122) 
+
 # Genetic mutations in DLBCL
 My research group is currently collaborating with Dr. Randy Gascoyne, Dr. David Scott, and Dr. Sohrab Shrab from the BC Cancer Agency on a genetic study of diffuse large B-cell lymphoma (DLBCL). In this work, we identify genetic alterations driving two distinct cell-of-origin (COO) subtype-specific tumor growth, providing a deeper understanding of DLBCL pathogenesis. In particular, we proposed an extension of the Cox-LASSO model to build a prognostic genetic signature of time to cancer progression beyond the signal that correlates with COO. The resulting genetic score improves the prediction of survival compared to the prediction based on COO alone. A manuscript summarizing the results of this collaboration is under review at *Nature Communications* (invited to revise and resubmit).
 
 # Proteomics and genomics in allergic asthma
 Together with Dr. Scott Tebbutt, from iCAPTURE and PROOF Centre, we are working on the analysis of genomics and proteomics data from patients with allergic asthma. Through this collaboration we have built a comprehensive analytical pipeline to identify and validate molecular markers of different asthmatic phenotypes in order to characterize the molecular mechanisms related to allergic asthma.
-
-# Proteomics in multiple sclerosis
-<img style="float: right;" src="/img/GraphicalAbstract.png" height="250" width="350">
-I have collaborated with Dr. Helen Tremlett, from the Pharmacoepidemiology in Multiple Sclerosis Research Group (UBC), working on a proteomics study of Multiple Sclerosis. Using advanced technological methods and an elastic net model, we identified and built a score based on a panel of 11 proteins to classify samples from MS patients into two extreme MS phenotypic groups (benign and aggressive cases of MS) with high estimated sensitivity and specificity. Our study was one of the first ones to explore the joint association of multiple proteins with MS disease progression serum samples.  
 
 # Proteomics in cardiovascular diseases
 I have worked with Dr. Bruce McManus, from the NCE CECR Prevention of Organ Failure (PROOF) Centre of Excellence (UBC), and Dr. Christoph Borchers, from the Genome BC Proteomics Centre (University of Victoria), on proteomic biomarkers studies of heart failure and cardiovascular diseases (work in progress). We have conducted rigorous statistical analyses based on regularized linear models and classifiers that identified promising panels of proteins. If externally validated, these markers will lead to the development of inexpensive protein-based blood tests that could be used by physicians to monitor response to therapies, resulting in more personalized patient management.
