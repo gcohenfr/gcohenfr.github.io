@@ -17,4 +17,11 @@ Statistics undergraduate students taking this case studies capstone course analy
 
 ## [STAT550](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=550): Techniques of Statistical Consulting
 
+The overall objective of this course is to train students to develop the skills required to work with non-statisticians either as consultant or collaborator. Students mentor and supervise underdergraduate students from STAT450 on their consulting case study. They also work independently on an extension of the analysis provided by STAT450. The communciation among students from both courses, instructurs and clients is maintained through discussions in a private Github/Gitlab  repository and/or Slack. I have been teaching this course, in coordination with STAT450, since 2015. Specific learning objectives are to develop:
+
+-	the techniques required to attain a clear understanding of a client's needs
+-	understanding of the processes involved in solving statistical problems
+-	oral and written skills that facilitate communication with clients
+-	working knowledge to participate in interdisciplinary collaborative models and statistical consulting
+
 ## STAT540: Statistical Methods for High Dimensional Biology
