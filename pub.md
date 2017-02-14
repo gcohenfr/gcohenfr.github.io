@@ -61,7 +61,7 @@ Dominik Domanski\*, ***Gabriela V. Cohen Freue***\*, Luis Sojo, Michael A. Kuzyk
 ***Gabriela V. Cohen Freue*** and Christoph H. Borchers. (2012) Multiple Reaction Monitoring (MRM) – Principles and Application to Coronary Artery Disease. *Circulation: Cardiovascular Genetics* ***5***, 378.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22715283)
 
-## Selected Publications: prior to 2012
+## Selected Publications before 2012
 
 ***Freue GV***, Sasaki M, Meredith A, Günther OP, Bergman A, Takhar M, Mui A, Balshaw RF, Ng RT, Opushneva N, Hollander Z, Li G, Borchers CH, Wilson-McManus J, McManus BM, Keown PA, McMaster WR (2010) Proteomic signatures in plasma during early acute renal allograft rejection. *Mol Cell Proteomics* ***9*** 1954-1967. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20501940) 
 
