@@ -5,7 +5,7 @@ subtitle: List of my most recent collaborations
 ---
 
 # Proteomics in multiple sclerosis
-<img style="float: right;" src="/img/GraphicalAbstract.png" height="250" width="350">
+<img style="float: right;" src="/img/ms.png" height="250" width="350">
 I have collaborated with Dr. Helen Tremlett, from the Pharmacoepidemiology in Multiple Sclerosis Research Group (UBC), working on a proteomics study of Multiple Sclerosis. Using advanced technological methods and an elastic net model, we identified and built a score based on a panel of 11 proteins to classify samples from MS patients into two extreme MS phenotypic groups (benign and aggressive cases of MS) with high estimated sensitivity and specificity. Our study was one of the first ones to explore the joint association of multiple proteins with MS disease progression serum samples. Image from Tremlett et al., *Journal of Proteomics* ***118***, 2-11. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25753122) 
 
 # Genetic mutations in DLBCL
@@ -22,3 +22,7 @@ Since 2005, I have been working in the realm of molecular biomarker discoveries 
 
 # Understanding -omics technologies
 Another important part of my research related with these collaborations has been focused on understanding the design of the experiments, the different sources of variation associated with the technologies used to generate the data, and the quality of the data. My first contribution in this area was the development of MDQC, a novel method based on fundamental concepts of robustness to assess the quality of large-scale microarray datasets. Through more recent collaborations, I have been invited by Dr. Borchers to write an article on the characterization of targeted Multiple Reaction Monitoring (MRM) assays, and to contribute with the design and study of an MRM-MS assay to quantitate putative protein markers of cardiovascular diseases. I am currently leading the development and study of an algorithm, called Protein Group Code Algorithm (PGCA), to link groups of identified proteins (instead of single proteins) across multiple experimental runs. The proposed algorithm addresses an unsolved challenge resulting from the protein inference problem in mass spectrometry data (invited to revise and resubmit in PLoS ONE).
+
+# Leishmania
+<img style="float: right;" src="/img/leishmania.png" height="250" width="350">
+I worked with Dr McMaster, Director of the Vancouver Coastal Health Research Institute, on two studies related to the molecular characterization of different species of Leishmania. Comparative genomic analyses show that the majority of differentially expressed genes between different life stages of Leishmania are species specific. Furthermore, a quantitative proteomic analysis of Leishmania relative protein expression shows a weak correlation to gene expression, suggesting that differential protein modifications may be more important in development than the regulation of gene expression. Image from Cohen Freue et al. *Int J Parasitol* ***37***, 1077-1086. [link](http://www.sciencedirect.com/science/article/pii/S0020751907001348) 
