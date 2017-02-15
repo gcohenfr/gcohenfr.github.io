@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Gabriela V. Cohen-Freue
+title: Gabriela V. Cohen Freue
 
 # Short description of your site
 description: Professor of Statistics
@@ -95,7 +95,7 @@ url-pretty: "Home"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-92045636-1"
 
 # Google Tag Manager ID
 #gtm: ""
