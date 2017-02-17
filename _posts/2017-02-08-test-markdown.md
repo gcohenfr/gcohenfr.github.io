@@ -4,4 +4,5 @@ title: Talk Data To Me
 ---
 
 Interview by Silvia Moreno for Faculty of Science newsletter. 
-[More >>>](https://science.ubc.ca/feature/data)
+
+[link](https://science.ubc.ca/feature/data)
