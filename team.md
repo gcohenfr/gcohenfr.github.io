@@ -22,8 +22,8 @@ title: Team Members
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
 
-    - Supervisors Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
-    - Currently working in CeMM Research Institute, Austria
+   - Supervisors Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
+   - Currently working in CeMM Research Institute, Austria
  
 - Amrit Singh (Ph.D. in Experimental Medicine,2016): currently a postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
 
