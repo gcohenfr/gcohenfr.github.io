@@ -28,7 +28,7 @@ title: ""
 
 **Beryl Zhuang** (M.Sc. in Bioniformatics, in progress)
 
- * Supervisor Prof. Pavlidis from CHiBi
+-	Supervisor Prof. Pavlidis from CHiBi
 
 **Yolanda Yang** (M.Sc. in Experimenal Medicine, in progress) 
 
