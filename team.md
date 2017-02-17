@@ -7,7 +7,8 @@ title: Team Members
     <td>![Me](/img/me.png)</td>
     <td><b>Gabriela V. Cohen Freue</b> (Assistant Professor in Statistics, Team Leader) </td>
   </tr>
-  
+</table>
+
 <img style="float: left;" src="/img/me.png" height="85" width="100"> 
 <br>
 
