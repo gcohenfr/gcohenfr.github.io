@@ -16,7 +16,7 @@ title: Team Members
 
 
 
-## Alumni
+# Alumni
 
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
   * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
