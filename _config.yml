@@ -33,7 +33,7 @@ navbar-links:
 #    - STAT 450 - Case Studies in Statistics: "https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=450"
   STAT 548: "stat548"
   
-  Contact: "https://www.stat.ubc.ca/users/gabriela-v-cohen-freue"
+#  Contact: "https://www.stat.ubc.ca/users/gabriela-v-cohen-freue"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
