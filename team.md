@@ -6,13 +6,17 @@ title: Trainees
 ## Supervisor of:
 
 - David Kepplinger (Ph.D., in progress)
+
 - Derek Cho (M.Sc., in progress)
+
 - Derek Chiu (M.Sc., 2016): currently working as a data analyst at BC Cancer Research Centre, Vancouver, BC, Canada
+
 - Chiara DiGravio (M.Sc., 2015): currently working as a statistician in an interdisciplinary research group at University of Southampton, UK
-- Dai (Darlene) LiYing (M.Sc., 2012, co-supervised with Prof. Ng from CS): currently working as a data analyst at
+
+- Darlene LiYing (M.Sc., 2012, co-supervised with Prof. Ng from CS): currently working as a data analyst at
 GenomeDx Bioscience, Vancouver, BC, Canada
 
-# Supervisory commitee member of:
+## Supervisory commitee member of:
 
 - Beryl Zhuang (M.Sc. in Bioniformatics, in progress)
 
