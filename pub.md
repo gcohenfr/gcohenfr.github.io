@@ -70,7 +70,7 @@ Dominik Domanski\*, ***Gabriela V. Cohen Freue***\*, Luis Sojo, Michael A. Kuzyk
 
 ***Cohen Freue GV***,  Hollander Z, Shen E, Zamar RH, Balshaw R, Scherer A, McManus B, Keown P, McMaster WR, Ng RT. (2007)  MDQC: a new quality assessment method for microarrays based on quality control reports. *Bioinformatics* ***23***, 3162-3169. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933854) 
 
-***Gabriela V. Cohen Freue***. (2007) The Pitman Estimator of the Cauchy Location Parameter. *Journal of Statistical Planning and Inference* ***137*** 1900-1913.[link](http://www.sciencedirect.com/science/article/pii/S0378375806001285)
+***Gabriela V. Cohen Freue***. (2007) The Pitman Estimator of the Cauchy Location Parameter. *Journal of Statistical Planning and Inference* ***137*** 1900-1913. [link](http://www.sciencedirect.com/science/article/pii/S0378375806001285)
 
 ***Cohen-Freue, G***; Holzer, TR; Forney, JD; McMaster, WR. (2007) Global Gene Expression in Leishmania. *International Journal for Parasitology* ***37*** 1077-1086. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17574557)
 
