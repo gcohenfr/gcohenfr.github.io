@@ -21,6 +21,8 @@ title: ""
 
 **Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
 
+**Kevin Multani** (Undergraduate student, USRA summer intership in May 2017)
+
 <br>
 
 
@@ -28,27 +30,27 @@ title: ""
 
 **Beryl Zhuang** (M.Sc. in Bioniformatics, in progress)
 
- * Supervisor Prof. Pavlidis from CHiBi
+-	Supervisor Prof. Pavlidis from CHiBi
 
 **Yolanda Yang** (M.Sc. in Experimenal Medicine, in progress) 
 
- * Supervisor Prof. Tebutt from iCAPTURE and PROOF Centre
+-	Supervisor Prof. Tebutt from iCAPTURE and PROOF Centre
 
 **Nathaniel Lim** (Ph.D. in GSAT, in progress)
 
- * Supervisor Prof. Pavlidis from CHiBi
+-	Supervisor Prof. Pavlidis from CHiBi
 
 <br>
  
 # Alumni
 
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
-  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
+ 
+ * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
   
 **Hao Luo** (Ph.D. in Statistics, 2016)
-
- * Supervisor Prof Gustafson from Statistics
- * First position: data analyst at Rubylife, Canada
+-	Supervisor Prof Gustafson from Statistics
+-	First position: data analyst at Rubylife, Canada
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
 
@@ -63,6 +65,14 @@ title: ""
 **Chiara DiGravio** (M.Sc. in Statistics, 2015) 
 
  * First position: research scientist in an interdisciplinary group at University of Southampton, UK
+ 
+**Derek Cho** (Undergraduate USRA Summer Internship, 2014)
+
+ * now in my research group as a M.Sc in Statistics 
+ 
+**Daniel Liu** (Undergraduate USRA Summer Internship, 2013)
+
+ * now in the M.Sc in Statistics program in Chicago, USA
 
 **Darlene LiYing** (M.Sc. in Statistics, 2012)
 

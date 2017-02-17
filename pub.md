@@ -8,8 +8,8 @@ subtitle: List of my most recent publications
 
 A full list of publications and other contributions is available in my [Curriculum Vitae]("pdfs/shortCV.pdf"). The name of students that work under my supervision are *italicized*.
 
-## Work Submitted
-*Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS One* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017.
+# Work Submitted
+*Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS ONE* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017.
 
 *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Pitfalls in protein prediction from mRNA. Submitted to *Nature* on March 16th, 2016. Resubmitted on November 2nd, 2016.
 
@@ -17,7 +17,8 @@ Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, 
 
 *Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Submitted on January 13th, 2017.
 
-## Refereed Publications: 2012 -- Present
+<br>
+# Refereed Publications: 2012 -- Present
 
 Tremlett H, *Dai DLY*, Hollander Z, Kapanen A, Aziz T, Wilson-McManus JE, Tebbutt SJ, Borchers CH, Oger J, ***Cohen Freue GV***. (2015) Serum proteomics in multiple sclerosis disease progression, *Journal of Proteomics* ***118***, 2-11.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25753122)
@@ -61,13 +62,15 @@ Dominik Domanski\*, ***Gabriela V. Cohen Freue***\*, Luis Sojo, Michael A. Kuzyk
 ***Gabriela V. Cohen Freue*** and Christoph H. Borchers. (2012) Multiple Reaction Monitoring (MRM) – Principles and Application to Coronary Artery Disease. *Circulation: Cardiovascular Genetics* ***5***, 378.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22715283)
 
-## Selected Publications before 2012
+<br>
+
+# Selected Publications before 2012
 
 ***Freue GV***, Sasaki M, Meredith A, Günther OP, Bergman A, Takhar M, Mui A, Balshaw RF, Ng RT, Opushneva N, Hollander Z, Li G, Borchers CH, Wilson-McManus J, McManus BM, Keown PA, McMaster WR (2010) Proteomic signatures in plasma during early acute renal allograft rejection. *Mol Cell Proteomics* ***9*** 1954-1967. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20501940) 
 
 ***Cohen Freue GV***,  Hollander Z, Shen E, Zamar RH, Balshaw R, Scherer A, McManus B, Keown P, McMaster WR, Ng RT. (2007)  MDQC: a new quality assessment method for microarrays based on quality control reports. *Bioinformatics* ***23***, 3162-3169. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933854) 
 
-***Gabriela V. Cohen Freue***. (2007) The Pitman Estimator of the Cauchy Location Parameter. *Journal of Statistical Planning and Inference* ***137*** 1900-1913.[link](http://www.sciencedirect.com/science/article/pii/S0378375806001285)
+***Gabriela V. Cohen Freue***. (2007) The Pitman Estimator of the Cauchy Location Parameter. *Journal of Statistical Planning and Inference* ***137*** 1900-1913. [link](http://www.sciencedirect.com/science/article/pii/S0378375806001285)
 
 ***Cohen-Freue, G***; Holzer, TR; Forney, JD; McMaster, WR. (2007) Global Gene Expression in Leishmania. *International Journal for Parasitology* ***37*** 1077-1086. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17574557)
 
