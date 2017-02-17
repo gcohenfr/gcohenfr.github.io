@@ -32,7 +32,7 @@ title: Team Members
  
  
 
-## Trainees from collaborations
+# Trainees from collaborations
 
 **Beryl Zhuang** (M.Sc. in Bioniformatics, in progress)
 
