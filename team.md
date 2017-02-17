@@ -14,7 +14,8 @@ title: Team Members
 
 **Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
 
-
+<br>
+<br>
 
 # Alumni
 
@@ -30,7 +31,7 @@ title: Team Members
  * Co-supervised with Prof. R. Ng from CS 
  * First position: data analyst at GenomeDx Bioscience, Vancouver, BC, Canada
  
- 
+ <br>
 
 # Trainees from collaborations
 
