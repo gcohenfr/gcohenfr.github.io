@@ -32,23 +32,24 @@ title: ""
 
 **Yolanda Yang** (M.Sc. in Experimenal Medicine, in progress) 
 
- * Supervisor Prof. Tebutt from iCAPTURE and PROOF Centre
+-	Supervisor Prof. Tebutt from iCAPTURE and PROOF Centre
 
 **Nathaniel Lim** (Ph.D. in GSAT, in progress)
 
- * Supervisor Prof. Pavlidis from CHiBi
+-	Supervisor Prof. Pavlidis from CHiBi
 
 <br>
  
 # Alumni
 
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
-  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
+ 
+ * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
   
 **Hao Luo** (Ph.D. in Statistics, 2016)
 
- * Supervisor Prof Gustafson from Statistics
- * First position: data analyst at Rubylife, Canada
+-	Supervisor Prof Gustafson from Statistics
+-	First position: data analyst at Rubylife, Canada
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
 
