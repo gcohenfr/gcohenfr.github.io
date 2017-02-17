@@ -2,6 +2,7 @@
 layout: page
 title: Team Members
 ---
+| ![Flowers](/img/me.png) |**Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader) |
 
 <img style="float: left;" src="/img/me.png" height="85" width="100"> 
 <br>
@@ -25,7 +26,7 @@ Main supervisor of Statistics students in the team, and academic advisor of stud
 # Alumni
 
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
-  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
+  ``-`` First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
 
 **Chiara DiGravio** (M.Sc. in Statistics, 2015) 
 
