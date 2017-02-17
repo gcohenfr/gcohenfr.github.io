@@ -21,6 +21,8 @@ title: ""
 
 **Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
 
+**Kevin Multani** (Undergraduate student, USRA summer intership in May 2017)
+
 <br>
 
 
@@ -63,6 +65,14 @@ title: ""
 **Chiara DiGravio** (M.Sc. in Statistics, 2015) 
 
  * First position: research scientist in an interdisciplinary group at University of Southampton, UK
+ 
+**Derek Cho** (Undergraduate USRA Summer Internship, 2014)
+
+ * now in my research group as a M.Sc in Statistics 
+ 
+**Daniel Liu** (Undergraduate USRA Summer Internship, 2013)
+
+ * now in the M.Sc in Statistics program in Chicago, USA
 
 **Darlene LiYing** (M.Sc. in Statistics, 2012)
 
