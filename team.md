@@ -4,32 +4,58 @@ title: Team Members
 ---
 
 
-- David Kepplinger (Ph.D. in Statistics, in progress, supervisor Prof. Cohen Freue)
+**David Kepplinger** (Ph.D. in Statistics, in progress)
 
-- Derek Cho (M.Sc. in Statistics, in progress, supervisor Prof. Cohen Freue)
+**Derek Cho** (M.Sc. in Statistics, in progress)
 
-- Beryl Zhuang (M.Sc. in Bioniformatics, in progress, supervisor Prof. Pavlidis from CHiBi)
+**Ash Anwar** (Ph.D., Research Assistant)
 
-- Yolanda Yang (M.Sc. in Experimenal Medicine, in progress, supervisor Prof. Tebutt from CHiBi)
-
-- Nathaniel Lim (Ph.D. in GSAT, in progress, supervisor Prof. Pavlidis from CHiBi)
+**Darlene LiYing** (M.Sc., Research Assistant)
 
 
 ## Alumni
 
+**Derek Chiu** (M.Sc. in Biostatistics, 2016)
 
-- Hao Luo (Ph.D. in Statistics, 2016, supervisor Prof Gustafson from Statistics): currently working as a data analyst at Rubylife, Canada
+  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
+
+**Chiara DiGravio** (M.Sc. in Statistics, 2015) 
+
+ * First position: research scientist in an interdisciplinary group at University of Southampton, UK
+
+**Darlene LiYing** (M.Sc. in Statistics, 2012)
+
+ * Co-supervised with Prof. R. Ng from CS 
+ * First position: data analyst at GenomeDx Bioscience, Vancouver, BC, Canada
+
+## Trainees from collaborations
+
+**Beryl Zhuang** (M.Sc. in Bioniformatics, in progress)
+
+ * Supervisor Prof. Pavlidis from CHiBi
+
+**Yolanda Yang** (M.Sc. in Experimenal Medicine, in progress) 
+
+ * Supervisor Prof. Tebutt from iCAPTURE and PROOF Centre
+
+**Nathaniel Lim** (Ph.D. in GSAT, in progress)
+
+ * Supervisor Prof. Pavlidis from CHiBi
+
+**Hao Luo** (Ph.D. in Statistics, 2016)
+
+ * Supervisor Prof Gustafson from Statistics
+ * First position: data analyst at Rubylife, Canada
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
 
-    *Supervisor*: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
-    *First position*: research scientist at CeMM Research Institute, Austria
+  * Supervisor: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
+  * First position: research scientist at CeMM Research Institute, Austria
  
-- Amrit Singh (Ph.D. in Experimental Medicine,2016): currently a postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
+**Amrit Singh** (Ph.D. in Experimental Medicine, 2016)
 
-- Derek Chiu (M.Sc. in Biostatistics, 2016, supervisor Prof. Cohen Freue). First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
+  * Supervisor: Prof. Tebbut from iCAPTURE and PROOF Centre
+  * First position: postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
 
-- Chiara DiGravio (M.Sc. in Statistics, 2015, supervisor Prof. Cohen Freue). First position: research scientist in an interdisciplinary group at University of Southampton, UK
 
-- Darlene LiYing (M.Sc. in Statistics, 2012, , supervisors Profs. Cohen Freue and Ng from CS). First position: data analyst at GenomeDx Bioscience, Vancouver, BC, Canada
 
