@@ -47,7 +47,6 @@ title: ""
  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
   
 **Hao Luo** (Ph.D. in Statistics, 2016)
-
 -	Supervisor Prof Gustafson from Statistics
 -	First position: data analyst at Rubylife, Canada
  
