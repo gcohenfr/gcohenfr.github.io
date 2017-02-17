@@ -5,7 +5,7 @@ title: Team Members
 
 # Team Leader
 
-<img style="float: left;" src="/img/me.png" height="90" width="100"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.</p>
+<img style="float: left;" src="/img/me.png" height="90" width="105"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.</p>
 
 
 **David Kepplinger** (Ph.D. in Statistics, in progress)
