@@ -21,6 +21,7 @@ title: Team Members
 - Hao Luo (Ph.D. in Statistics, 2016, supervisor Prof Gustafson from Statistics): currently working as a data analyst at Rubylife, Canada
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
+
     - Supervisors Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
     - Currently working in CeMM Research Institute, Austria
  
