@@ -5,7 +5,7 @@ title: Team Members
 
 # Team Leader
 
-<img style="float: left;" src="/img/me.png" height="90" width="105"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.</p>
+<img style="float: left;" src="/img/me.png" height="95" width="110"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.
 
 
 **David Kepplinger** (Ph.D. in Statistics, in progress)
@@ -23,7 +23,7 @@ title: Team Members
 # Alumni
 
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
-  ``-`` First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
+  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
 
 **Chiara DiGravio** (M.Sc. in Statistics, 2015) 
 
