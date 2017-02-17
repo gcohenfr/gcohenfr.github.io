@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Members
+title: 
 ---
 
 # Team Leader
