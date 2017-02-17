@@ -22,7 +22,7 @@ title: Team Members
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
 
-   *Supervisor*: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
+    *Supervisor*: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
    
    First position: research scientist at CeMM Research Institute, Austria
  
