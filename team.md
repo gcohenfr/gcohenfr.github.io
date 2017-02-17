@@ -12,6 +12,8 @@ title: Team Members
 
 **Darlene LiYing** (M.Sc., Research Assistant)
 
+**Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
+
 
 ## Alumni
 
