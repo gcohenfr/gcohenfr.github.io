@@ -2,7 +2,7 @@
 layout: page
 title: Team Members
 ---
-![Me](/img/me.png) ## Team Leader
+![Me](/img/me.png) ##Team Leader
 
 **Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader) 
 
