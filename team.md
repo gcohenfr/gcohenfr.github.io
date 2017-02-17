@@ -7,6 +7,7 @@ title: Team Members
 
 <img style="float: left;" src="/img/me.png" height="105" width="123"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.
 
+<br>
 # Team Members
 
 **David Kepplinger** (Ph.D. in Statistics, in progress)
@@ -21,23 +22,8 @@ title: Team Members
 
 <br>
 
-# Alumni
 
-**Derek Chiu** (M.Sc. in Biostatistics, 2016)
-  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
-
-**Chiara DiGravio** (M.Sc. in Statistics, 2015) 
-
- * First position: research scientist in an interdisciplinary group at University of Southampton, UK
-
-**Darlene LiYing** (M.Sc. in Statistics, 2012)
-
- * Co-supervised with Prof. R. Ng from CS 
- * First position: data analyst at GenomeDx Bioscience, Vancouver, BC, Canada
- 
- <br>
-
-# Trainees from collaborations
+# Trainees from Collaborations
 
 **Beryl Zhuang** (M.Sc. in Bioniformatics, in progress)
 
@@ -51,6 +37,13 @@ title: Team Members
 
  * Supervisor Prof. Pavlidis from CHiBi
 
+<br>
+ 
+# Alumni
+
+**Derek Chiu** (M.Sc. in Biostatistics, 2016)
+  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
+  
 **Hao Luo** (Ph.D. in Statistics, 2016)
 
  * Supervisor Prof Gustafson from Statistics
@@ -65,6 +58,18 @@ title: Team Members
 
   * Supervisor: Prof. Tebbut from iCAPTURE and PROOF Centre
   * First position: postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
+
+**Chiara DiGravio** (M.Sc. in Statistics, 2015) 
+
+ * First position: research scientist in an interdisciplinary group at University of Southampton, UK
+
+**Darlene LiYing** (M.Sc. in Statistics, 2012)
+
+ * Co-supervised with Prof. R. Ng from CS 
+ * First position: data analyst at GenomeDx Bioscience, Vancouver, BC, Canada
+ 
+ 
+
 
 
 
