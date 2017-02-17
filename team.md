@@ -3,6 +3,8 @@ layout: page
 title: Team Members
 ---
 
+**Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader)
+<img style="float: left;" src="/img/me.png" height="100" width="100"> Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges components from mathematical statistics, genomics and medical sciences.
 
 **David Kepplinger** (Ph.D. in Statistics, in progress)
 
@@ -14,7 +16,6 @@ title: Team Members
 
 **Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
 
-<br>
 <br>
 
 # Alumni
