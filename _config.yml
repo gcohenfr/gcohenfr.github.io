@@ -27,7 +27,7 @@ navbar-links:
   Publications: "pub"
   Collaborations: "collab"
   Team: "team"
-  Teaching: "teach"
+  Courses: "teach"
 #  Teaching:
 #    - STAT 450 - Case Studies in Statistics: "https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=450"
   STAT 548: "stat548"
