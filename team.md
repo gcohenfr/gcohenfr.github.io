@@ -15,6 +15,7 @@ title: Team Members
 **Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
 
 
+
 ## Alumni
 
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
@@ -28,6 +29,8 @@ title: Team Members
 
  * Co-supervised with Prof. R. Ng from CS 
  * First position: data analyst at GenomeDx Bioscience, Vancouver, BC, Canada
+ 
+ 
 
 ## Trainees from collaborations
 
