@@ -3,7 +3,7 @@ layout: page
 title: R-packages
 ---
 
-## [riv](https://cran.r-project.org/web/packages/riv/index.html): Robust Instrumental Variables
+# [riv](https://cran.r-project.org/web/packages/riv/index.html): Robust Instrumental Variables
 `riv` is an R-package to compute robust instrumental variables estimators of linear models based on a high break- down point S-estimator of location and covariance. The model can contain both continuous and categorical variables. The package also includes the computation of the classical non-robust two-stage least squares estimator (2SLS).
 
 **Reference**: Gabriela Cohen Freue, Hernan Ortiz Molina, and Ruben H. Zamar. (2013) A Natural Robustification of the Ordinary Instrumental Variables Estimator. *Biometrics* ***69***, 641-650.
@@ -15,9 +15,9 @@ title: R-packages
 **Reference**: Cohen Freue GV, et al. (2007)  MDQC: a new quality assessment method for microarrays based on quality control reports. *Bioinformatics* ***23***, 3162-3169. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933854) 
 
 # pgca: Protein Group Code Algorithm
-`pgca` is an algorithm to link lists of protein groups identified from MS/MS spectra of multiple experimental runs. PGCA creates a mapping of local into global protein groups by comparing the protein identifiers of groups across runs. Assigning common protein group codes (PGC) to all proteins within each global group allows the comparison and statistical analysis of lists of protein groups instead of single protein identifiers. Under construction. Check back soon.
+`pgca` is an algorithm to link lists of protein groups identified from MS/MS spectra of multiple experimental runs. PGCA creates a mapping of local into global protein groups by comparing the protein identifiers of groups across runs. Assigning common protein group codes (PGC) to all proteins within each global group allows the comparison and statistical analysis of lists of protein groups instead of single protein identifiers. Package under construction. Check back soon.
 
 **Reference**: Mandeep Takhar, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Under revision in *PLoS ONE*.
 
 # pense: Penalized Elastic Net S-estimator
-Under construction. Check back soon.
+`pense` is an R-package to compute robust sparse estimators of linear models that can be used to identify a useful subset of explanatory variables while protecting the resulting estimator against possible aberrant observations in the data set. Using an Elastic Net penalty, the resulting estimator can be used to select variables, even in cases with more variables than observations or when many of the candidate explanatory variables are correlated. Robust LASSO and Ridge S-estimators are particular cases of PENSE. The package also includes the computation of elastic net MM-estimators. Package under construction. Check back soon.
