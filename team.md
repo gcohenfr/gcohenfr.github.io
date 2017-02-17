@@ -2,7 +2,9 @@
 layout: page
 title: Team Members
 ---
-![Me](/img/me.png) **Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader) 
+![Me](/img/me.png) ## Team Leader
+
+**Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader) 
 
 <img style="float: left;" src="/img/me.png" height="85" width="100"> 
 <br>
