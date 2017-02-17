@@ -10,7 +10,7 @@ title: R-packages
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23865476)
 
 # [mdqc](https://www.bioconductor.org/packages/release/bioc/html/mdqc.html): Mahalanobis Distance Quality Control
-`mdqc` is a multivariate quality assessment method for microarrays based on quality control (QC) reports. The Mahalanobis distance of an array's quality attributes is used to measure the similarity of the quality of that array against the quality of the other arrays. Then, arrays with unusually high distances can be flagged as potentially low-quality. 
+`mdqc` is a multivariate assessment method, available in [Bioconductor](https://www.bioconductor.org), to examine the quality of microarrays based on quality control (QC) reports. The Mahalanobis distance of an array's quality attributes is used to measure the similarity of the quality of that array against the quality of the other arrays. Then, arrays with unusually high distances can be flagged as potentially low-quality. 
 
 **Reference**: Cohen Freue GV, et al. (2007)  MDQC: a new quality assessment method for microarrays based on quality control reports. *Bioinformatics* ***23***, 3162-3169. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933854) 
 
