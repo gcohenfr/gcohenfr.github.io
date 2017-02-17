@@ -3,4 +3,4 @@ layout: post
 title: Talk Data To Me
 ---
 
-[https://science.ubc.ca/feature/data](https://science.ubc.ca/feature/data)
+Interview by Silvia Moreno for the Faculty of Science newsletter [link](https://science.ubc.ca/feature/data)
