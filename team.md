@@ -3,9 +3,7 @@ layout: page
 title: Team Members
 ---
 
-**Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader)
-
-<img style="float: left;" src="/img/me.png" height="85" width="100"> 
+<img style="float: left;" src="/img/me.png" height="85" width="100"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader)
 <br>
 
 Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.
