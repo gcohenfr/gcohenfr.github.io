@@ -5,7 +5,6 @@ title: Team Members
 
 <img style="float: left;" src="/img/me.png" height="85" width="100"> 
 <br>
-<br>
 
 **Gabriela V. Cohen Freue** (Assistant Professor in Statistics, Team Leader)
 
