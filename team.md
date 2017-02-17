@@ -2,16 +2,11 @@
 layout: page
 title: Team Members
 ---
-![Me](/img/me.png) 
-
-<br>
 
 # Team Leader
 
-**Gabriela V. Cohen Freue** (Assistant Professor in Statistics) 
-<br>
 <img style="float: left;" src="/img/me.png" height="85" width="100"> 
-<p align="center"> Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.</p>
+<p align="center"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.</p>
 
 
 **David Kepplinger** (Ph.D. in Statistics, in progress)
