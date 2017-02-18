@@ -3,6 +3,9 @@ layout: page
 title: Curriculum Vitae
 subtitle:
 ---
-<object float="center" align="center" width="800" height="500" type="application/pdf" data="/pdfs/shortCV.pdf">
-  <p>PDF Cannot be displayed, <a href="/pdfs/shortCV.pdf">download here</a>.</p>
+
+<object data="/pdfs/shortCV.pdf" type="application/pdf" float="center" align="center" width="100%" height="100%">
+<iframe src="/pdfs/shortCV.pdf" width="100%" height="100%" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdfs/shortCV.pdf">Download PDF</a>
+</iframe>
 </object>
