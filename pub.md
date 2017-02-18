@@ -6,10 +6,7 @@ subtitle: List of my most recent publications
 
 ## [Google Scholar](https://scholar.google.ca/citations?user=PHcQHzAAAAAJ&hl=en)
 
-A full list of publications and other contributions is available in my
-  <object width="400" height="500" type="application/pdf" data="/pdfs/shortCV.pdf">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-  </object>. The name of students that work under my supervision are *italicized*.
+A full list of publications and other contributions is available in my [Curriculum Vitae](/cv.md). The name of students that work under my supervision are *italicized*.
 
 # Work Submitted
 *Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS ONE* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017.
