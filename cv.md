@@ -1,8 +1,8 @@
 ---
-layout: minimal
+layout: page
 title: Curriculum Vitae
 subtitle:
 ---
-<object width="90%" height="90%" type="application/pdf" data="/pdfs/shortCV.pdf">
+<object width="400" height="500" type="application/pdf" data="/pdfs/shortCV.pdf">
   <p>Insert your error message here, if the PDF cannot be displayed.</p>
 </object>
