@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BIRS Workshop
+title: Oaxaca BIRS Workshop
 subtitle: Statistical and Computational Challenges in High-Throughput Genomics with Application to Precision Medicine
 ---
 
