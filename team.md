@@ -34,7 +34,7 @@ title: ""
 
 **Yolanda Yang** (M.Sc. in Experimenal Medicine, in progress) 
 
--	Supervisor Prof. Tebutt from iCAPTURE and PROOF Centre
+-	Supervisor Prof. Tebbutt from iCAPTURE and PROOF Centre
 
 **Nathaniel Lim** (Ph.D. in GSAT, in progress)
 
@@ -49,17 +49,17 @@ title: ""
  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
   
 **Hao Luo** (Ph.D. in Statistics, 2016)
--	Supervisor Prof Gustafson from Statistics
--	First position: data analyst at Rubylife, Canada
+*	Supervisor Prof Gustafson from Statistics
+*	First position: data analyst at Rubylife, Canada
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
 
-  * Supervisor: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
-  * First position: research scientist at CeMM Research Institute, Austria
+ * Supervisor: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
+ * First position: research scientist at CeMM Research Institute, Austria
  
 **Amrit Singh** (Ph.D. in Experimental Medicine, 2016)
 
-  * Supervisor: Prof. Tebbut from iCAPTURE and PROOF Centre
+  * Supervisor: Prof. Tebbutt from iCAPTURE and PROOF Centre
   * First position: postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
 
 **Chiara DiGravio** (M.Sc. in Statistics, 2015) 
@@ -68,11 +68,11 @@ title: ""
  
 **Derek Cho** (Undergraduate USRA Summer Internship, 2014)
 
- * now in my research group as a M.Sc in Statistics 
+ * First position: M.Sc in Statistics, UBC (member of my research groug)
  
 **Daniel Liu** (Undergraduate USRA Summer Internship, 2013)
 
- * now in the M.Sc in Statistics program in Chicago, USA
+ * First position: M.Sc in Statistics program in Chicago, USA
 
 **Darlene LiYing** (M.Sc. in Statistics, 2012)
 
