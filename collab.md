@@ -12,6 +12,7 @@ I have collaborated with Dr. Helen Tremlett, from the Pharmacoepidemiology in Mu
 My research group is currently collaborating with Dr. Randy Gascoyne, Dr. David Scott, and Dr. Sohrab Shrab from the BC Cancer Agency on a genetic study of diffuse large B-cell lymphoma (DLBCL). In this work, we identify genetic alterations driving two distinct cell-of-origin (COO) subtype-specific tumor growth, providing a deeper understanding of DLBCL pathogenesis. In particular, we proposed an extension of the Cox-LASSO model to build a prognostic genetic signature of time to cancer progression beyond the signal that correlates with COO. The resulting genetic score improves the prediction of survival compared to the prediction based on COO alone. A manuscript summarizing the results of this collaboration is under review at *Nature Communications* (invited to revise and resubmit).
 
 # Proteomics and genomics in allergic asthma
+<img style="float: right;" src="/img/asthma.png" height="250" width="350">
 Together with Dr. Scott Tebbutt, from iCAPTURE and PROOF Centre, we are working on the analysis of genomics and proteomics data from patients with allergic asthma. Through this collaboration we have built a comprehensive analytical pipeline to identify and validate molecular markers of different asthmatic phenotypes in order to characterize the molecular mechanisms related to allergic asthma.
 
 # Proteomics in cardiovascular diseases
