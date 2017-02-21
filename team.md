@@ -68,7 +68,7 @@ title: ""
  
 **Derek Cho** (Undergraduate USRA Summer Internship, 2014)
 
- * First position: M.Sc in Statistics, UBC (member of my research groug)
+ * First position: M.Sc in Statistics, UBC (member of my research group)
  
 **Daniel Liu** (Undergraduate USRA Summer Internship, 2013)
 
