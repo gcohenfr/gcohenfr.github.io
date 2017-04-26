@@ -14,7 +14,7 @@ title: R-packages
 
 **Reference**: Cohen Freue GV, et al. (2007)  MDQC: a new quality assessment method for microarrays based on quality control reports. *Bioinformatics* ***23***, 3162-3169. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17933854) 
 
-# pgca: Protein Group Code Algorithm
+# [pgca](https://bioconductor.org/packages/pgca/): Protein Group Code Algorithm
 `pgca` is an algorithm to link lists of protein groups identified from MS/MS spectra of multiple experimental runs. PGCA creates a mapping of local into global protein groups by comparing the protein identifiers of groups across runs. Assigning common protein group codes (PGC) to all proteins within each global group allows the comparison and statistical analysis of lists of protein groups instead of single protein identifiers. Package available in the new release of [Bioconductor](https://bioconductor.org/packages/pgca/) and in [GitHub](https://github.com/gcohenfr/pgca).
 
 **Reference**: David Kepplinger, Mandeep Takhar, Mayu Sasaki, Zsuzsanna Hollander, Derek Smith, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Under revision in *PLoS ONE*.
