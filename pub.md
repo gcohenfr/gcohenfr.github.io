@@ -9,9 +9,9 @@ subtitle: List of my most recent publications
 A full list of publications and other contributions is available in my [Curriculum Vitae](/cv.md). The name of students that work under my supervision are *italicized*.
 
 # Work Submitted
-*Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS ONE* on September 23rd, 2016. Invited to revise and resubmit before February 28th, 2017.
+*Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Submitted to *PLoS ONE* on September 23rd, 2016. Revised and resubmitted on March 31, 2017.
 
-*Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Pitfalls in protein prediction from mRNA. Submitted to *Nature* on March 16th, 2016. Resubmitted on November 2nd, 2016.
+*Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Pitfalls in protein prediction from mRNA. Submitted to *Nature* on March 16th, 2016. Revised and resubmitted on March 21, 2017.
 
 Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, Merrill Boyle, Barbara Meissner, Pedro Farinha, Graham Slack, Susana Ben Neriah, Daniel Lai, Allen Zhang, Hennady Shulha, Fong Chun Chan, Robert Kridel, *Derek Chiu*, Sara Mostafavi, ***Gabriela Cohen Freue***, Alina Gerrie, Diego Villa, Laurie Sehn, Kerry Savage, Andrew Mungall, Ryan Morin, Joseph Connors, Christian Steidl, Marco Marra, Sohrab Shah, Randy Gascoyne, David Dominguez-Sola. Cell of origin-specific genetic alterations and chromosomal instability have therapeutic and immunologic impact in diffuse large B-cell lymphoma. Submitted to *Nature Communications* on December 2nd, 2016. Invited to revise and resubmit. Contributed with one of the statistical methodologies and analysis in the paper.
 
