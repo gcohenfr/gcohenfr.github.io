@@ -55,7 +55,7 @@ Domanski D, Percy AJ, Yang J, Chambers AG, Hill JS, ***Freue GV***, Borchers CH.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22577024)
 
 
-Dominik Domanski\*, ***Gabriela V. Cohen Freue***\*, Luis Sojo, Michael A. Kuzyk, Leslie Ratkay, Carol E. Parker, Y. Paul Goldberg, and Christoph H. Borchers. (2011) The Use of Multiplexed MRM for the Discovery of Biomarkers to Differentiate Iron-deficiency Anemia from Anemia of Inflammation. *Journal of Proteomics* JPROT-D-11-00502.\*Equal contributors.
+Dominik Domanski\*, ***Gabriela V. Cohen Freue***\*, Luis Sojo, Michael A. Kuzyk, Leslie Ratkay, Carol E. Parker, Y. Paul Goldberg, and Christoph H. Borchers. (2012) The Use of Multiplexed MRM for the Discovery of Biomarkers to Differentiate Iron-deficiency Anemia from Anemia of Inflammation. *Journal of Proteomics* JPROT-D-11-00502.\*Equal contributors.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22146476)
 
 
