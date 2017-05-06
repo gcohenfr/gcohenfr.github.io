@@ -21,6 +21,8 @@ title: ""
 
 **Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
 
+**Joe Watson** (Ph.D. in Statistics, in progress, summer 2017 RA)
+
 **Kevin Multani** (Undergraduate student, USRA summer intership in May 2017)
 
 <br>
