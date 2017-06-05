@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New publications from the group
+title: New publications from our group
 ---
 
 1) *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Can we predict protein from mRNA levels? Accepted in *Nature*. June 2, 2017. With accompanying Shiny Application [here](https://dakep.shinyapps.io/central-dogma/)
