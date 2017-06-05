@@ -2,7 +2,6 @@
 layout: post
 title: New publications from our group
 subtitle: 1) Can we predict protein from mRNA levels? Accepted in Nature.
-subtitle: 2) PGCA: A New
 ---
 # 2) PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. *PLoS ONE* ***12***(5):e0177569.
 
