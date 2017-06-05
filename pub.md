@@ -17,9 +17,9 @@ Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, 
 <br>
 # Refereed Publications: 2012 -- Present
 
-1) *David Kepplinger*, *Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, Derek Smith, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. May 31, 2017. *PLoS ONE* ***12***(5):e0177569..
+1) *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Pitfalls in protein prediction from mRNA. Accepted in *Nature*. June 2, 2017. 
 
-2) *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. Pitfalls in protein prediction from mRNA. Accepted in *Nature*. June 2, 2017.
+2) *David Kepplinger*, *Mandeep Takhar*, Mayu Sasaki, Zsuzsanna Hollander, Derek Smith, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. May 31, 2017. *PLoS ONE* ***12***(5):e0177569.
 
 3) Tremlett H, *Dai DLY*, Hollander Z, Kapanen A, Aziz T, Wilson-McManus JE, Tebbutt SJ, Borchers CH, Oger J, ***Cohen Freue GV***. (2015) Serum proteomics in multiple sclerosis disease progression, *Journal of Proteomics* ***118***, 2-11.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25753122)
