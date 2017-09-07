@@ -10,11 +10,13 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or Completed
 
-*Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Submitted on January 13th, 2017. Invited to revise and resubmit.
+1) *Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine*. Revised and resubmitted.
 
-*Mohammad A Anwar*\*, *Darlene Liying Dai*\*, Janet Wilson-McManus, Gordon A. Francis, Christoph H Borchers, Bruce M. McManus, John S. Hill, ***Gabriela V. Cohen Freue***. Multiplexed LC/ESI-MRM-MS-based Assay for Identification of Coronary Artery Disease Biomarkers in Human Plasma. *Proteomics-Clinical Applications* Submitted on June 27th, 2017. \*Equal contributors
+2) *Mohammad A Anwar*\*, *Darlene Liying Dai*\*, Janet Wilson-McManus, Gordon A. Francis, Christoph H Borchers, Bruce M. McManus, John S. Hill, ***Gabriela V. Cohen Freue***. Multiplexed LC/ESI-MRM-MS-based Assay for Identification of Coronary Artery Disease Biomarkers in Human Plasma. *Proteomics-Clinical Applications* Submitted on June 27th, 2017. \*Equal contributors
 
-Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, Merrill Boyle, Barbara Meissner, Pedro Farinha, Graham Slack, Susana Ben Neriah, Daniel Lai, Allen Zhang, Hennady Shulha, Fong Chun Chan, Robert Kridel, *Derek Chiu*, Sara Mostafavi, ***Gabriela Cohen Freue***, Alina Gerrie, Diego Villa, Laurie Sehn, Kerry Savage, Andrew Mungall, Ryan Morin, Joseph Connors, Christian Steidl, Marco Marra, Sohrab Shah, Randy Gascoyne, David Dominguez-Sola. Cell of origin-specific genetic alterations and chromosomal instability have therapeutic and immunologic impact in diffuse large B-cell lymphoma. Ready for submission. 
+3) *Hao Luo*, ***Gabriela V. Cohen Freue***, *Xin Zhao*, Alexandre Bouchard-Cote, Igor Burstyn, Paul Gustafson. A new perspective on the benefits of the gene-environment independence in case-control studies. Submitted to the *Canadian Journal of Statistics* on August 31st, 2017.
+
+4) Daisuke Ennishi, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, Merrill Boyle, Barbara Meissner, Pedro Farinha, Graham Slack, Susana Ben Neriah, Daniel Lai, Allen Zhang, Hennady Shulha, Fong Chun Chan, Robert Kridel, *Derek Chiu*, Sara Mostafavi, ***Gabriela Cohen Freue***, Alina Gerrie, Diego Villa, Laurie Sehn, Kerry Savage, Andrew Mungall, Ryan Morin, Joseph Connors, Christian Steidl, Marco Marra, Sohrab Shah, Randy Gascoyne, David Dominguez-Sola. Cell of origin-specific genetic alterations and chromosomal instability have therapeutic and immunologic impact in diffuse large B-cell lymphoma. To be submitted soon.
 
 <br>
 # Refereed Publications: 2012 -- Present
