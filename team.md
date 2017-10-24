@@ -11,32 +11,26 @@ title: ""
 
 # Team Members
 
+**Ezequiel Smucler** (Postdoctoral Fellow)
+
 **David Kepplinger** (Ph.D. in Statistics, in progress)
 
 **Derek Cho** (M.Sc. in Statistics, in progress)
+
+**Joe Watson** (Ph.D. in Statistics, in progress, Research Assistant)
 
 **Ash Anwar** (Ph.D., Research Assistant)
 
 **Darlene LiYing** (M.Sc., Research Assistant)
 
-**Ezequiel Smucler** (Postdoctoral Fellow, starting in June 2017)
+**Elisa Warner** (Ph.D. in Bioinformatics, starting in September 2018)
 
-**Joe Watson** (Ph.D. in Statistics, in progress, summer 2017 RA)
-
-**Kevin Multani** (Undergraduate student, USRA summer intership in May 2017)
+**Kevin Multani** (Undergraduate student, USRA summer intership in 2017)
 
 <br>
 
 
 # Trainees from Collaborations
-
-**Beryl Zhuang** (M.Sc. in Bioniformatics, in progress)
-
--	Supervisor Prof. Pavlidis from CHiBi
-
-**Yolanda Yang** (M.Sc. in Experimenal Medicine, in progress) 
-
--	Supervisor Prof. Tebbutt from iCAPTURE and PROOF Centre
 
 **Nathaniel Lim** (Ph.D. in GSAT, in progress)
 
@@ -46,22 +40,35 @@ title: ""
  
 # Alumni
 
+**Yolanda Yang** (M.Sc. in Experimenal Medicine, 2017)
+
+* Supervisor Prof. Tebbutt from iCAPTURE and PROOF Centre
+* Supervisory Commitee Member
+
+**Beryl Zhuang** (M.Sc. in Bioniformatics, 2016)
+
+* Supervisor Prof. Pavlidis from CHiBi
+* Supervisory Commitee Member
+
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
  
  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
   
 **Hao Luo** (Ph.D. in Statistics, 2016)
 *	Supervisor Prof Gustafson from Statistics
+* Supervisory Commitee Member
 *	First position: data analyst at Rubylife, Canada
  
 **Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
 
  * Supervisor: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
+ * Supervisory Commitee Member
  * First position: research scientist at CeMM Research Institute, Austria
  
 **Amrit Singh** (Ph.D. in Experimental Medicine, 2016)
 
   * Supervisor: Prof. Tebbutt from iCAPTURE and PROOF Centre
+  * Supervisory Commitee Member
   * First position: postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
 
 **Chiara DiGravio** (M.Sc. in Statistics, 2015) 
