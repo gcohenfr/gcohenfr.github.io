@@ -25,9 +25,9 @@ A full list of publications and other contributions is available in my [Curricul
 <br>
 # Refereed Publications: 2012 -- Present
 
-1) *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***.(2017) Can we predict protein from mRNA levels? *Nature* ***547***, E19–E20, doi:10.1038/nature22293 [Link](http://rdcu.be/uvBy) and [pdf](https://gcohenfr.github.io/pdfs/Manuscript_Fortelny_2016-03-03740B.pdf) of the accepted version. With accompanying Shiny Application [here](https://dakep.shinyapps.io/central-dogma/).
+1) *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. (2017) Can we predict protein from mRNA levels? *Nature* ***547***, E19–E20, doi:10.1038/nature22293 [Link](http://rdcu.be/uvBy) and [pdf](https://gcohenfr.github.io/pdfs/Manuscript_Fortelny_2016-03-03740B.pdf) of the accepted version. With accompanying Shiny Application [here](https://dakep.shinyapps.io/central-dogma/).
 
-2) *David Kepplinger*\*, *Mandeep Takhar*\*, Mayu Sasaki, Zsuzsanna Hollander, Derek Smith, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. May 31, 2017. *PLoS ONE* ***12***(5):e0177569. [Link](https://doi.org/10.1371/journal.pone.0177569). With accompanying Bioconductor library [here](https://bioconductor.org/packages/release/bioc/html/pgca.html). \*Equal contributors.
+2) *David Kepplinger*\*, *Mandeep Takhar*\*, Mayu Sasaki, Zsuzsanna Hollander, Derek Smith, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. (2017) PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. *PLoS ONE* ***12***(5):e0177569. [Link](https://doi.org/10.1371/journal.pone.0177569). With accompanying Bioconductor library [here](https://bioconductor.org/packages/release/bioc/html/pgca.html). \*Equal contributors.
 
 3) Tremlett H, *Dai DLY*, Hollander Z, Kapanen A, Aziz T, Wilson-McManus JE, Tebbutt SJ, Borchers CH, Oger J, ***Cohen Freue GV***. (2015) Serum proteomics in multiple sclerosis disease progression, *Journal of Proteomics* ***118***, 2-11.
 [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25753122)
