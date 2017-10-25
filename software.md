@@ -19,5 +19,7 @@ title: R-packages
 
 **Reference**: David Kepplinger, Mandeep Takhar, Mayu Sasaki, Zsuzsanna Hollander, Derek Smith, W. Robert McMaster, Raymond T. Ng, ***Gabriela Cohen Freue***. PGCA: A New Algorithm to Link Protein Groups Created from MS/MS Data. Accepted in *PLoS ONE*.
 
-# pense: Penalized Elastic Net S-estimator
+# [pense](https://cran.r-project.org/package=pense): Penalized Elastic Net S-estimator
 `pense` is an R-package to compute robust sparse estimators of linear models that can be used to identify a useful subset of explanatory variables while protecting the resulting estimator against possible aberrant observations in the data set. Using an Elastic Net penalty, the resulting estimator can be used to select variables, even in cases with more variables than observations or when many of the candidate explanatory variables are correlated. Robust LASSO and Ridge S-estimators are particular cases of PENSE. The package also includes the computation of elastic net MM-estimators. Package submitted to CRAN.
+
+**Reference**: 1) ***Gabriela V. Cohen Freue***, *David Kepplinger*, Matias Salibian-Barrera, and *Ezequiel Smucler*. PENSE: a Penalized Elastic Net S-Estimator. To be submitted to the *Annals of Applied Statistics*, with accompanying CRAN library; Completed. Authors are ordered alphabetically. [pdf](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).

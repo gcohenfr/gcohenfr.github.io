@@ -10,7 +10,7 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or in Progress
 
-1) ***Gabriela V. Cohen Freue***, *David Kepplinger*, Matias Salibian-Barrera, and *Ezequiel Smucler*. PENSE: a Penalized Elastic Net S-Estimator. To be submitted to the *Annals of Applied Statistics*, with accompanying CRAN library; Completed. Authors are ordered alphabetically. [pdf](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
+1) ***Gabriela V. Cohen Freue***, *David Kepplinger*, Matias Salibian-Barrera, and *Ezequiel Smucler*. PENSE: a Penalized Elastic Net S-Estimator. To be submitted to the *Annals of Applied Statistics*, with accompanying CRAN library [pense](https://cran.r-project.org/package=pense); Completed. Authors are ordered alphabetically. [pdf](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
 
 2) Daisuke Ennishi, Shannon Healy, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, Fong Chun Chan, Lauren Chong, Robert Kridel, Merrill Boyle, Barbara Meissner, Tomohiro Aoki, Katsuyoshi Takata, Bruce W. Woolcock, Adele Telenius, Abigail Baticados, Angel Madero, Pedro Farinha, Graham W. Slack, Susana Ben-Neriah, Daniel Lai, Allen W. Zhang, Sohrab Salehi, Hennady P. Shulha, *Derek S. Chiu*, Sara Mostafavi, Alina S. Gerrie, Diego Villa, Laurie H. Sehn, Kerry J. Savage, Andrew J. Mungall, Andrew P. Weng, Ryan D. Morin, ***Gabriela V. Cohen Freue***, Joseph M. Connors, Marco A. Marra, Sohrab P. Shah, Randy D. Gascoyne, David W. Scott, and Christian Steidl. TMEM30A loss-of-function mutations increase drug sensitivity and improve outcome in diffuse large B-cell lymphoma. Submitted to *Nature Genetics* on October 5th, 2017.
 
