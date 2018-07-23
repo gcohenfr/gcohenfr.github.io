@@ -5,25 +5,19 @@ title: ""
 
 # Team Leader
 
-<img style="float: left;" src="/img/me.png" height="110" width="130"> **Gabriela V. Cohen Freue** (Assistant Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.
+<img style="float: left;" src="/img/me.png" height="110" width="130"> **Gabriela V. Cohen Freue** (Associate Professor in Statistics). Main supervisor of Statistics students in the team, and academic advisor of students from collaborations. My research team merges knowledge from mathematical statistics, genomics and medical sciences.
 
 <br>
 
 # Team Members
 
-**Ezequiel Smucler** (Postdoctoral Fellow)
-
 **David Kepplinger** (Ph.D. in Statistics, in progress)
-
-**Derek Cho** (M.Sc. in Statistics, in progress)
 
 **Joe Watson** (Ph.D. in Statistics, in progress, Research Assistant)
 
 **Ash Anwar** (Ph.D., Research Assistant)
 
 **Darlene LiYing** (M.Sc., Research Assistant)
-
-**Elisa Warner** (Ph.D. in Bioinformatics, starting in September 2018)
 
 **Kevin Multani** (Undergraduate student, USRA summer intership in 2017)
 
@@ -39,6 +33,17 @@ title: ""
 <br>
  
 # Alumni
+
+**Ezequiel Smucler**
+
+* Postdoctoral Fellow
+* First Position: Assistant Professor at Universidad DiTella, Buenos Aires, Argentina
+
+**Derek Cho** (M.Sc. in Statistics, 2018)
+
+ * Main supervisor
+ * First position: research scientist at Rakuten, Japan
+
 
 **Yolanda Yang** (M.Sc. in Experimenal Medicine, 2017)
 
