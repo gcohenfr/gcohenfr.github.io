@@ -13,13 +13,10 @@ title: ""
 
 **David Kepplinger** (Ph.D. in Statistics, in progress)
 
+**Arjun Baghela** (Ph.D. in Bioinformatics, in progress)
+
 **Joe Watson** (Ph.D. in Statistics, in progress, Research Assistant)
 
-**Ash Anwar** (Ph.D., Research Assistant)
-
-**Darlene LiYing** (M.Sc., Research Assistant)
-
-**Kevin Multani** (Undergraduate student, USRA summer intership in 2017)
 
 <br>
 
@@ -34,10 +31,20 @@ title: ""
  
 # Alumni
 
+**Nikolas Krstic** (M.Sc. in Statistics, 2019)
+
+ * Main supervisor
+ * First position: research scientist 
+ 
 **Ezequiel Smucler**
 
-* Postdoctoral Fellow
+* Postdoctoral Fellow (2018)
 * First Position: Assistant Professor at Universidad DiTella, Buenos Aires, Argentina
+
+**Kevin Multani** (Undergraduate student, USRA summer intership in 2017)
+
+* Main supervisor
+* First position: graduate school in Stanford
 
 **Derek Cho** (M.Sc. in Statistics, 2018)
 
@@ -94,6 +101,10 @@ title: ""
 
  * Co-supervised with Prof. R. Ng from CS 
  * First position: data analyst at GenomeDx Bioscience, Vancouver, BC, Canada
+ * Research Assistant in my lab
+
+**Ash Anwar** (Ph.D., Research Assistant)
+
  
  
 
