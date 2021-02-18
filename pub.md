@@ -10,20 +10,20 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or in Progress
 
-1) Daisuke Ennishi, Shannon Healy, Ali Bashashati, Saeed Saberi, Christoffer Hother, Anja Mottok, Fong Chun Chan, Lauren Chong, Robert Kridel, Merrill Boyle, Barbara Meissner, Tomohiro Aoki, Katsuyoshi Takata, Bruce W. Woolcock, Adele Telenius, Abigail Baticados, Angel Madero, Pedro Farinha, Graham W. Slack, Susana Ben-Neriah, Daniel Lai, Allen W. Zhang, Sohrab Salehi, Hennady P. Shulha, *Derek S. Chiu*, Sara Mostafavi, Alina S. Gerrie, Diego Villa, Laurie H. Sehn, Kerry J. Savage, Andrew J. Mungall, Andrew P. Weng, Ryan D. Morin, ***Gabriela V. Cohen Freue***, Joseph M. Connors, Marco A. Marra, Sohrab P. Shah, Randy D. Gascoyne, David W. Scott, and Christian Steidl. TMEM30A loss-of-function mutations increase drug sensitivity and improve outcome in diffuse large B-cell lymphoma. Revision submitted to *Nature* on August, 2019.
-
-2) *David Kepplinger*, *Joe Watson* and ***Gabriela V. Cohen Freue***. A comprehensive study of regularized instrumental variables estimators with applications to genomics. To be submitted to *PLoS Computational Biology*; 70% completed.
+1) *David Kepplinger*, *Joe Watson* and ***Gabriela V. Cohen Freue***. A comprehensive study of regularized instrumental variables estimators with applications to genomics. To be submitted to *PLoS Computational Biology*; 70% completed.
 
 <br>
 # Refereed Publications: 2012 -- Present
 
-1) ***Gabriela V. Cohen Freue***, *David Kepplinger*, Matias Salibian-Barrera, and *Ezequiel Smucler*. PENSE: a Penalized Elastic Net S-Estimator. Accepted in *Annals of Applied Statistics*, with accompanying CRAN library [pense](https://cran.r-project.org/package=pense); Authors are ordered alphabetically. [pdf](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
+1) Daisuke Ennishi, Shannon Healy, Ali Bashashati, ..., ***Gabriela V. Cohen Freue***, Louis M. Staudt, Joseph M. Connors, Marco A. Marra, Sohrab P. Shah, Randy D. Gascoyne, David W. Scott, and Christian Steidl. (2020) TMEM30A loss-of-function mutations drive lymphomagenesis and confer therapeutically exploitable vulnerability in B-cell lymphoma. *Nature Medicine* ***26***,577-588.
 
-2) *Hao Luo*, ***Gabriela V. Cohen Freue***, *Xin Zhao*, Alexandre Bouchard-Cote, Igor Burstyn, Paul Gustafson. A new perspective on the benefits of the gene-environment independence in case-control studies. Accepted in the *Canadian Journal of Statistics*.
+1) ***Gabriela V. Cohen Freue***, *David Kepplinger*, Matias Salibian-Barrera, and *Ezequiel Smucler*. (2019) PENSE: a Penalized Elastic Net S-Estimator. *Annals of Applied Statistics*, with accompanying CRAN library [pense](https://cran.r-project.org/package=pense); Authors are ordered alphabetically. [pdf](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
 
-3) *Mohammad A Anwar*\*, *Darlene Liying Dai*\*, Janet Wilson-McManus, Gordon A. Francis, Christoph H Borchers, Bruce M. McManus, John S. Hill, ***Gabriela V. Cohen Freue***. Multiplexed LC/ESI-MRM-MS-based Assay for Identification of Coronary Artery Disease Biomarkers in Human Plasma. \*Equal contributors. *Proteomics-Clinical Applications*. doi:10.1002/prca.201700111. Accepted version [here](https://rdcu.be/biTPr)
+2) *Hao Luo*, ***Gabriela V. Cohen Freue***, *Xin Zhao*, Alexandre Bouchard-Cote, Igor Burstyn, Paul Gustafson. (2019) A new perspective on the benefits of the gene-environment independence in case-control studies. *Canadian Journal of Statistics** ***47***, 473–486. 
 
-4) *Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine* ***197***, 450-462.
+3) *Mohammad A Anwar*\*, *Darlene Liying Dai*\*, Janet Wilson-McManus, Gordon A. Francis, Christoph H Borchers, Bruce M. McManus, John S. Hill, ***Gabriela V. Cohen Freue***. (2019) Multiplexed LC/ESI-MRM-MS-based Assay for Identification of Coronary Artery Disease Biomarkers in Human Plasma. \*Equal contributors. *Proteomics-Clinical Applications*. doi:10.1002/prca.201700111. Accepted version [here](https://rdcu.be/biTPr)
+
+4) *Singh, Amrit*, Shannon, Casey, Kim, Young Woong, Yang, Chen Xi, Balshaw, Robert, ***Cohen Freue, Gabriela***, Gauvreau, Gail, FitzGerald, J Mark, Boulet, Louis-Philippe, O'Byrne, Paul, Tebbutt, Scott. (2018) Novel blood-based transcriptional biomarker panels predict the late phase asthmatic response. *American Journal of Respiratory and Critical Care Medicine* ***197***, 450-462.
 
 5) *Nikolaus Fortelny*, Christopher Overall, Paul Pavlidis, ***Gabriela V. Cohen Freue***. (2017) Can we predict protein from mRNA levels? *Nature* ***547***, E19–E20, doi:10.1038/nature22293 [Link](http://rdcu.be/uvBy). With accompanying Shiny Application [here](https://dakep.shinyapps.io/central-dogma/).
 
