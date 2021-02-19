@@ -12,6 +12,9 @@ A full list of publications and other contributions is available in my [Curricul
 
 1) *David Kepplinger*, *Joe Watson* and ***Gabriela V. Cohen Freue***. A comprehensive study of regularized instrumental variables estimators with applications to genomics. To be submitted to *PLoS Computational Biology*; 70% completed.
 
+2) *Arjun Baghela*, ..., ***Gabriela Cohen Freue***, and Robert E.W. Hancock. Early gene expression signatures triage hospital patients with prospective sepsis into mechanistic endotypes, predict severity, and are relevant to Covid-19 sepsis. Ready for submission. 
+
+
 <br>
 # Refereed Publications: 2012 -- Present
 
