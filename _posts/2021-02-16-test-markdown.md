@@ -1,9 +1,9 @@
 ---
 layout: post
 title: USRA summer or fall
-subtitle: Available positions
+subtitle: Application closed
 ---
-Interested in applying for an NSERC Undergraduate Student Research Award??
+But we may open new position for undergraduate students in the summer for this project (conditioning to funding). Stay tuned!! 
 
 Research position to work on an interdisciplinary project, joint with Dr. Scott Tebbutt:  ***Systems biology to identify biomarkers of vaccine immune responses in newborns***. More information about this project can be found [here](https://gcohenfr.github.io/pdfs/Neonatal_Immunology_USRA.pdf). 
 
