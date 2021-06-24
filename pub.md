@@ -6,7 +6,7 @@ subtitle: List of my most recent publications
 
 ## [Google Scholar](https://scholar.google.ca/citations?user=PHcQHzAAAAAJ&hl=en)
 
-A full list of publications and other contributions is available in my [Curriculum Vitae](/cv.md). The name of students that work under my supervision are *italicized*.
+A full list of publications and other contributions is available in my [Curriculum Vitae](cv.md). The name of students that work under my supervision are *italicized*.
 
 # Work Submitted or in Progress
 
