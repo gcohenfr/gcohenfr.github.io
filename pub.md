@@ -10,7 +10,7 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or in Progress
 
-1) *Nikolas Krstic, Kevin Multani*, David S. Wishart, Tom Blydt-Hansen, ***Gabriela Cohen Freue***. The impact of methodological choices when developing a metabolomic predictive model of T cell-mediated rejection. Under review in *Statistics in Medicine* since July 2020. Invited to revise and resubmit.
+1) *Nikolas Krstic, Kevin Multani*, David S. Wishart, Tom Blydt-Hansen, ***Gabriela Cohen Freue***. The impact of methodological choices when developing a metabolomic predictive model of T cell-mediated rejection. Under review in *Statistics in Medicine*. Invited to revise and resubmit.
 
 2) *Arjun Baghela*, ..., ***Gabriela Cohen Freue***, and Robert E.W. Hancock. Early gene expression signatures triage hospital patients with prospective sepsis into mechanistic endotypes, predict severity, and are relevant to Covid-19 sepsis. Ready for submission. 
 
