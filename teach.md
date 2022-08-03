@@ -6,6 +6,16 @@ subtitle:
 
 My main goal at teaching is that the students seek a deep understanding of new or relevant concepts, which I pursue by encouraging active learning and bringing to the classroom real world problems. It is important that students not only learn and review statistical concepts, but also grasp their relevance and need to solve meaningful problems.
 
+#Current courses
+
+# [STAT301](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=301): Statistical Modelling for Data Science
+
+# [STAT538A](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=STAT&course=538A): Generalized Linear Models
+
+# [DSCI561](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=DSCI&course=561): Regression 1. This course is restricted to students from the [MDS](https://masterdatascience.ubc.ca) program.
+
+# Past courses
+
 # [STAT450](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=3&dept=STAT&course=450): Case Studies in Statistics
 
 Statistics undergraduate students taking this case studies capstone course analyze real data provided by a researcher from a different discipline. More information on cases eligibility is available [here](https://www.stat.ubc.ca/how-can-you-get-help-your-data). I've been teaching this course since 2013. The main learning objective of the course are for students:

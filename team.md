@@ -11,11 +11,26 @@ title: ""
 
 # Team Members
 
-**David Kepplinger** (Ph.D. in Statistics, in progress)
+**Arafeh Bigdel** (Postdoctoral Fellow, in progress, co-supervised with Dr. Tom Blydt-Hansen) 
 
-**Arjun Baghela** (Ph.D. in Bioinformatics, in progress)
+**Nikolas Krstic** (PhD. in Statistics, in progress)
 
-**Joe Watson** (Ph.D. in Statistics, in progress, Research Assistant)
+**Abhinav Checkervarty** (PhD. in Experimental Medicine, in progress, co-supervised with Dr. Scott Tebbutt)
+
+**Trevor Kwan** (MSc. in Statistics, in progress)
+
+**Chloe You** (MSc. in Statistics, in progress)
+
+**Maggie Liu** (MSc. in Statistics, in progress)
+
+**Jana Osea** (MSc. in Statistics, in progress)
+
+**Nirupama Tamvada** (MSc. in Statistics, in progress)
+
+**Giuseppe Tomio** (MSc. in Statistics, in progress, co-supervisor with Dr. Keegan Korthauer)
+
+**Michael Yoon** (MSc in Bioinformatics, in progress, co-supervisor with Dr. Christopher
+Carlsten)
 
 
 <br>
@@ -23,13 +38,31 @@ title: ""
 
 # Trainees from Collaborations
 
-**Nathaniel Lim** (Ph.D. in GSAT, in progress)
+**William Casazza** (PhD in Bioinformatics, in progress, Supervisory Committee Member)
 
--	Supervisor Prof. Pavlidis from CHiBi
+**Daniel He** (PhD in Experimental Medicine, in progress, Supervisory Committee Member)
+
+**Ryan Riley** (MSc in Bioinformatics, in progress, Supervisory Committee Member)
+
+**Tiffany Leung** (MSc in Bioinformatics, in progress, Supervisory Committee Member)
 
 <br>
  
 # Alumni
+
+**Arjun Baghela** (Ph.D. in Bioinformatics, 2022)
+
+ * Co-upervisor with Dr. Bob Hancock
+ * First position: research scientist at Merck
+ 
+**David Kepplinger** (Ph.D. in Statistics, 2020)
+
+ * Main supervisor
+ * First position: Assistant Professor, George Mason University, US.
+
+**Joe Watson** (Ph.D. in Statistics, 2020)
+
+  * Research Assistant in my lab
 
 **Nikolas Krstic** (M.Sc. in Statistics, 2019)
 
@@ -51,39 +84,11 @@ title: ""
  * Main supervisor
  * First position: research scientist at Rakuten, Japan
 
-
-**Yolanda Yang** (M.Sc. in Experimenal Medicine, 2017)
-
-* Supervisor Prof. Tebbutt from iCAPTURE and PROOF Centre
-* Supervisory Commitee Member
-
-**Beryl Zhuang** (M.Sc. in Bioniformatics, 2016)
-
-* Supervisor Prof. Pavlidis from CHiBi
-* Supervisory Commitee Member
-
 **Derek Chiu** (M.Sc. in Biostatistics, 2016)
  
  * Main supervisor
  * First position: research scientist at BC Cancer Research Centre, Vancouver, BC, Canada
   
-**Hao Luo** (Ph.D. in Statistics, 2016)
-*	Supervisor Prof Gustafson from Statistics
-* Supervisory Commitee Member
-*	First position: data analyst at Rubylife, Canada
- 
-**Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
-
- * Supervisor: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
- * Supervisory Commitee Member
- * First position: research scientist at CeMM Research Institute, Austria
- 
-**Amrit Singh** (Ph.D. in Experimental Medicine, 2016)
-
-  * Supervisor: Prof. Tebbutt from iCAPTURE and PROOF Centre
-  * Supervisory Commitee Member
-  * First position: postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
-
 **Chiara DiGravio** (M.Sc. in Statistics, 2015) 
 
  * Main supervisor
@@ -105,7 +110,42 @@ title: ""
 
 **Ash Anwar** (Ph.D., Research Assistant)
 
+## In Supervisory Committee of:
+
+**Nathaniel Lim** (Ph.D. in GSAT, 2021)
+
+  *	Supervisor Dr. Pavlidis from CHiBi
+
+**Eric Lee** (MSc in Bioinformatics, 2021)
+
+  * Supervisor Dr. Andrew Roth from CS and BCCA
+
+**Yee Fay** (MSc in Bioinformatics, 2021) 
+
+  * Supervisor Dr. Inanc Birol from Medical Genetics
+  
+**Yolanda Yang** (M.Sc. in Experimenal Medicine, 2017)
+
+* Supervisor Prof. Tebbutt from iCAPTURE and PROOF Centre
+
+**Nikolaus Fortelny** (Ph.D. in Biochemistry, 2016) 
+
+ * Supervisor: Profs. Pavlidis from CHiBi and Overall from Centre for Blood Research)
+ * First position: research scientist at CeMM Research Institute, Austria
  
+**Hao Luo** (Ph.D. in Statistics, 2016)
+*	Supervisor Prof Gustafson from Statistics
+*	First position: data analyst at Rubylife, Canada
+ 
+**Amrit Singh** (Ph.D. in Experimental Medicine, 2016)
+
+  * Supervisor: Prof. Tebbutt from iCAPTURE and PROOF Centre
+  * First position: postdoctoral Fellow at PROOF Centre of Excellence, Vancouver, BC, Canada
+
+**Beryl Zhuang** (M.Sc. in Bioniformatics, 2016)
+
+* Supervisor Prof. Pavlidis from CHiBi
+
  
 
 

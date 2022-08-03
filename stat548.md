@@ -15,10 +15,8 @@ choose any topic that suits their interest. As a general goal, I expect the stud
 Causal Effects Using Instrumental Variables (with discussion), *Journal
 of the American Statistical Association*, ***91***, 444–455.
 
-2. Laura Forastiere, Edoardo M. Airoldi and Fabrizia Mealli (2020) Identification and Estimation of Treatment and Interference Effects in Observational Studies on Networks. *Journal
-of the American Statistical Association*, 1-18.
+2. J. Gertheiss and G Tutz. (2010) SPARSE MODELING OF CATEGORIAL EXPLANATORY
+VARIABLES. *Ann of Applied Stat*, *2010, Vol. ***4*, No. 4***, 2150–2180.
 
-3. M Templ, J Gussenbauer, P Filzmoser (2020) Evaluation of robust outlier detection methods for zero-inflated complex data. *Journal of Applied Statistics* ***47***, 1144-1167
-
-4. Tarr G, Muller S, Weber NC (2016) Robust estimation of precision matrices under
-cellwise contamination, *Computational Statistics and Data Analysis* ***93***, 404-420
+3. B. Efron (1988) Logistic Regression, Survival Analysis, and the Kaplan-Meier Curve
+*Journal of the American Statistical Association* ***83***, 414-425.
