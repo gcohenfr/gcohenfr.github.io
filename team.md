@@ -11,7 +11,7 @@ title: ""
 
 # Team Members
 
-**David Kepplinger** (Ph.D. in Statistics, in progress)
+**David Kepplinger** (Ph.D. in Statistics, graduated)
 
 **Arjun Baghela** (Ph.D. in Bioinformatics, in progress)
 
