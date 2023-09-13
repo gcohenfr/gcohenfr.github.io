@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Science Institute (DSI) grant
-subtitle: Postdoctoral position 
+subtitle: Postdoctoral position - CLOSED 
 ---
 
 Postdoctoral position available to work on an interdisciplinary project, joint with Dr. Tom Blydt-Hansen:  ***Personalized risk assessment in pediatric kidney transplantation using mteabolomics data***. More information about this project can be found [here](https://gcohenfr.github.io/pdfs/ImmPediatricKT_DSI_PD.pdf). The position is partially funded by the DSI Postdoctoral Fellow Matching Funds Programs from UBC
