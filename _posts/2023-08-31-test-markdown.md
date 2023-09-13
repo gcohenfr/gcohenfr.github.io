@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations on you MSc. degree completion!!
+title: Congratulations on your MSc. degree completion!!
 subtitle: 
 ---
 
