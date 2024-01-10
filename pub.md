@@ -9,23 +9,24 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or in Progress
 
+*Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, Submitted to _Technometrics_, manuscript ID TCH-24-003. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published.
+
+1.	*Maggie Liu* and ***Gabriela V. Cohen Freue***. Fast Robust Covariance-Regularized Regression for High-Dimensional Data. 90% completed. A draft of the manuscript is available [here](https://gcohenfr.github.io/pdfs/JDSSV_robscout.pdf). Based on Maggie’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435703?o=6).
+
 1. *David Kepplinger*, *Joe Watson* and ***Gabriela V. Cohen Freue***. A comprehensive study of regularized instrumental variables estimators with applications to genomics. To be submitted to *PLoS Computational Biology*; 80% completed.
-
-1.	*Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, 40% completed. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published.
-
-1.	*Anthony Christidis*, *Jeyshinee Pyneeandee* and ***Gabriela V. Cohen Freue***. Fast and Scalable Cellwise Robust Ensembles for High-Dimensional Data, 40% completed. Accompanying R packages [robStepSplitReg](https://cran.r-project.org/web/packages/robStepSplitReg/index.html) and [srlars](https://cran.r-project.org/web/packages/srlars/index.html) published.  
-
-1.	*Maggie Liu* and ***Gabriela V. Cohen Freue***. Fast Robust Covariance-Regularized Regression for High-Dimensional Data. 70% completed. Manuscript based on Maggie’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435703?o=6).
 
 1.	Chloe You, Linbo Wang and ***Gabriela V. Cohen Freue***. On Regularized Risk Regression for High-Dimensional Data. 70% completed. Manuscript based on Chloe’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435556?o=3). 
 
-1.	*Nirupama Tamvada*, Sahir Bhatnagar and ***Gabriela V. Cohen Freue***. Penalized Competing Risks Analysis using Case-Base Sampling for High-Dimensional Data. 60% completed. Manuscript based on Nirupama’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435526?o=2). 
+1.	*Nirupama Tamvada*, Sahir Bhatnagar and ***Gabriela V. Cohen Freue***. Penalized Competing Risks Analysis using Case-Base Sampling for High-Dimensional Data. 60% completed. Manuscript based on Nirupama’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435526?o=2).
+
+1.	*Anthony Christidis*, *Jeyshinee Pyneeandee* and ***Gabriela V. Cohen Freue***. Fast and Scalable Cellwise Robust Ensembles for High-Dimensional Data, 40% completed. Accompanying R packages [robStepSplitReg](https://cran.r-project.org/web/packages/robStepSplitReg/index.html) and [srlars](https://cran.r-project.org/web/packages/srlars/index.html) published.  
+
 
 
 <br>
 # Refereed Publications: 2012 -- Present
 
-1. *Arjun Baghela*, Andy An, Peter Zhang, Erica Acton, Jeff Gauthier, Elsa Brunet-Ratnasingham, Travis Blimkie, ***Gabriela Cohen Freue***, Daniel Kauffman, Amy Lee, Roger Levesque, Robert Hancock. Predicting severity in Covid-19 disease using sepsis blood gene expression signatures. *Scientific Reports* ***13***, 1247.
+1. *Arjun Baghela*, Andy An, Peter Zhang, Erica Acton, Jeff Gauthier, Elsa Brunet-Ratnasingham, Travis Blimkie, ***Gabriela Cohen Freue***, Daniel Kauffman, Amy Lee, Roger Levesque, Robert Hancock. (2023) Predicting severity in Covid-19 disease using sepsis blood gene expression signatures. *Scientific Reports* ***13***, 1247.
 
 
 1. *Nikolas Krstic, Kevin Multani*, David S. Wishart, Tom Blydt-Hansen, ***Gabriela Cohen Freue***. (2022) The impact of methodological choices when developing a metabolomic predictive model of T cell-mediated rejection. Under review in *Statistics in Medicine* ***41***, 3511-3526.
