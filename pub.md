@@ -9,7 +9,7 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or in Progress
 
-*Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, Submitted to _Technometrics_, manuscript ID TCH-24-003. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published.
+1. *Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, Submitted to _Technometrics_, manuscript ID TCH-24-003. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published.
 
 1.	*Maggie Liu* and ***Gabriela V. Cohen Freue***. Fast Robust Covariance-Regularized Regression for High-Dimensional Data. 90% completed. A draft of the manuscript is available [here](https://gcohenfr.github.io/pdfs/JDSSV_robscout.pdf). Based on Maggie’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435703?o=6).
 
