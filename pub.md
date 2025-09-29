@@ -9,7 +9,7 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or in Progress
 
-1. *Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, Second-round revision submitted to *Journal of Computational and Graphical Statistics*, manuscript ID JCGS-24-511. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published. A draft of the manuscript is available [here](gcohenfr.github.io/pdfs/Robust%20Multi-Model%20Subset%20Selection.pdf).
+1. *Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, Second-round revision submitted to *Journal of Computational and Graphical Statistics*, manuscript ID JCGS-24-511. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published. A draft of the manuscript is available [here](https://github.com/gcohenfr/gcohenfr.github.io/blob/master/pdfs/Robust%20Multi-Model%20Subset%20Selection.pdf).
 
 1.	*Javier Martinez-Rodriguez*, *Nirupama Tamvada*, Sahir Bhatnagar and ***Gabriela V. Cohen Freue***. cbSRIP: Casebase Sampling for Sparse Competing Risk Prediction. 100% completed. To be submitted to *Statistics in Medicine* once final comments from collaborators are received.
 
