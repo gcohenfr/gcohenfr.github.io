@@ -9,19 +9,19 @@ A full list of publications and other contributions is available in my [Curricul
 
 # Work Submitted or in Progress
 
-1. *Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, Submitted to _Technometrics_, manuscript ID TCH-24-003. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published. A draft of the manuscript is available [here](gcohenfr.github.io/pdfs/Robust%20Multi-Model%20Subset%20Selection.pdf).
+1. *Anthony Christidis* and ***Gabriela V. Cohen Freue***. Robust Multi-Model Subset Selection, Second-round revision submitted to *Journal of Computational and Graphical Statistics*, manuscript ID JCGS-24-511. Accompanying R package [RMSS](https://cran.r-project.org/web/packages/RMSS/index.html) published. A draft of the manuscript is available [here](gcohenfr.github.io/pdfs/Robust%20Multi-Model%20Subset%20Selection.pdf).
+
+1.	*Javier Martinez-Rodriguez*, *Nirupama Tamvada*, Sahir Bhatnagar and ***Gabriela V. Cohen Freue***. cbSRIP: Casebase Sampling for Sparse Competing Risk Prediction. 100% completed. To be submitted to *Statistics in Medicine* once final comments from collaborators are received.
+
+1. *David Kepplinger*, *Joe Watson* and ***Gabriela V. Cohen Freue***. A comprehensive study of regularized instrumental variables estimators with applications to genomics. To be submitted to *Annals of Applied Statistics*; 90% completed.
+
+1.	*Javier Martinez-Rodriguez*, *Chloe You*, Linbo Wang and ***Gabriela V. Cohen Freue***. On Regularized Risk Regression for High-Dimensional Data. 70% completed. Manuscript based on Chloe’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435556?o=3) and Javier Martinez-Rodriguez's MSc project.
 
 1.	*Maggie Liu* and ***Gabriela V. Cohen Freue***. Fast Robust Covariance-Regularized Regression for High-Dimensional Data. 90% completed. A draft of the manuscript is available [here](https://gcohenfr.github.io/pdfs/JDSSV_robscout.pdf). Based on Maggie’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435703?o=6).
 
-1. *David Kepplinger*, *Joe Watson* and ***Gabriela V. Cohen Freue***. A comprehensive study of regularized instrumental variables estimators with applications to genomics. To be submitted to *PLoS Computational Biology*; 80% completed.
-
-1.	Chloe You, Linbo Wang and ***Gabriela V. Cohen Freue***. On Regularized Risk Regression for High-Dimensional Data. 70% completed. Manuscript based on Chloe’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435556?o=3). 
-
-1.	*Nirupama Tamvada*, Sahir Bhatnagar and ***Gabriela V. Cohen Freue***. Penalized Competing Risks Analysis using Case-Base Sampling for High-Dimensional Data. 60% completed. Manuscript based on Nirupama’s MSc [thesis](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435526?o=2).
-
+1.	Nikolas Krstic and Gabriela Cohen Freue. Hierarchical Fused Group LASSO. 60% completed.
+   
 1.	*Anthony Christidis*, *Jeyshinee Pyneeandee* and ***Gabriela V. Cohen Freue***. Fast and Scalable Cellwise Robust Ensembles for High-Dimensional Data, 40% completed. Accompanying R packages [robStepSplitReg](https://cran.r-project.org/web/packages/robStepSplitReg/index.html) and [srlars](https://cran.r-project.org/web/packages/srlars/index.html) published.  
-
-
 
 <br>
 # Refereed Publications: 2012 -- Present
