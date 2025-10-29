@@ -35,7 +35,7 @@ A full list of publications and other contributions is available in my [Curricul
 
 1. Daisuke Ennishi, Shannon Healy, Ali Bashashati, ..., ***Gabriela V. Cohen Freue***, Louis M. Staudt, Joseph M. Connors, Marco A. Marra, Sohrab P. Shah, Randy D. Gascoyne, David W. Scott, and Christian Steidl. (2020) TMEM30A loss-of-function mutations drive lymphomagenesis and confer therapeutically exploitable vulnerability in B-cell lymphoma. *Nature Medicine* ***26***,577-588.
 
-1. ***Gabriela V. Cohen Freue***, *David Kepplinger*, Matias Salibian-Barrera, and *Ezequiel Smucler*. (2019) PENSE: a Penalized Elastic Net S-Estimator. *Annals of Applied Statistics*, with accompanying CRAN library [pense](https://cran.r-project.org/package=pense); Authors are ordered alphabetically. [pdf](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
+1. ***Gabriela V. Cohen Freue***, *David Kepplinger*, Matias Salibian-Barrera, and *Ezequiel Smucler*. (2019) Robust elastic net estimator for variable selection and identification of proteomic biomarkers. *Annals of Applied Statistics*, ***13***, 2065–2090, with accompanying CRAN library [pense](https://cran.r-project.org/package=pense); Authors are ordered alphabetically. [pdf](https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf).
 
 1. *Hao Luo*, ***Gabriela V. Cohen Freue***, *Xin Zhao*, Alexandre Bouchard-Cote, Igor Burstyn, Paul Gustafson. (2019) A new perspective on the benefits of the gene-environment independence in case-control studies. *Canadian Journal of Statistics** ***47***, 473–486. 
 
