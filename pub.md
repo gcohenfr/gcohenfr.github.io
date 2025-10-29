@@ -28,7 +28,7 @@ A full list of publications and other contributions is available in my [Curricul
 
 1. *Arjun Baghela*, Andy An, Peter Zhang, Erica Acton, Jeff Gauthier, Elsa Brunet-Ratnasingham, Travis Blimkie, ***Gabriela Cohen Freue***, Daniel Kauffman, Amy Lee, Roger Levesque, Robert Hancock. (2023) Predicting severity in Covid-19 disease using sepsis blood gene expression signatures. *Scientific Reports* ***13***, 1247.
 
-1.	Kepplinger, D., Cohen Freue, G.V. (2023). Robust Prediction and Protein Selection with Adaptive PENSE. In: Burger, T. (eds) Statistical Analysis of Proteomic Data. Methods in Molecular Biology, vol 2426. Humana, New York, NY.
+1.	Kepplinger, D., ***Cohen Freue, G.V.*** (2023). Robust Prediction and Protein Selection with Adaptive PENSE. In: Burger, T. (eds) Statistical Analysis of Proteomic Data. Methods in Molecular Biology, vol 2426. Humana, New York, NY.
 
 1. *Nikolas Krstic, Kevin Multani*, David S. Wishart, Tom Blydt-Hansen, ***Gabriela Cohen Freue***. (2022) The impact of methodological choices when developing a metabolomic predictive model of T cell-mediated rejection. Under review in *Statistics in Medicine* ***41***, 3511-3526.
 
