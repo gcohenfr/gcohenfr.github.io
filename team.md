@@ -11,50 +11,79 @@ title: ""
 
 # Team Members
 
-**Arafeh Bigdel** (Postdoctoral Fellow, in progress, co-supervised with Dr. Tom Blydt-Hansen) 
-
 **Nikolas Krstic** (PhD. in Statistics, in progress)
-
-**Abhinav Checkervarty** (PhD. in Experimental Medicine, in progress, co-supervised with Dr. Scott Tebbutt)
-
-**Trevor Kwan** (MSc. in Statistics, in progress)
-
-**Chloe You** (MSc. in Statistics, in progress)
-
-**Maggie Liu** (MSc. in Statistics, in progress)
-
-**Jana Osea** (MSc. in Statistics, in progress)
-
-**Nirupama Tamvada** (MSc. in Statistics, in progress)
-
-**Giuseppe Tomio** (MSc. in Statistics, in progress, co-supervisor with Dr. Keegan Korthauer)
-
-**Michael Yoon** (MSc in Bioinformatics, in progress, co-supervisor with Dr. Christopher
-Carlsten)
-
 
 <br>
 
 
 # Trainees from Collaborations
 
-**William Casazza** (PhD in Bioinformatics, in progress, Supervisory Committee Member)
+**Michael Yoon** (MSc in Bioinformatics, in progress, co-supervisor with Dr. Christopher
+Carlsten)
 
-**Daniel He** (PhD in Experimental Medicine, in progress, Supervisory Committee Member)
-
-**Ryan Riley** (MSc in Bioinformatics, in progress, Supervisory Committee Member)
-
-**Tiffany Leung** (MSc in Bioinformatics, in progress, Supervisory Committee Member)
 
 <br>
  
 # Alumni
 
+### 2024
+
+**Anthony Christidis** (Postdoctoral Fellow, 2024)
+
+ * Main supervisor
+ * First position: Computational Scientist, Harvard Medical School
+
+**Abhinav Checkervarty** (PhD. in Experimental Medicine, co-supervised with Dr. Scott Tebbutt, 2024)
+
+* First position: Postdoctoral Fellow at Dr. Scott Tebbutt's lab, UBC, Canada
+
+**Charlotte Edgar** (MSc. in Statistics, 2024)
+
+* Main supervisor
+* First position: PhD Student, Imperial Collage London
+
+### 2023
+
+**Chloe You** (MSc. in Statistics, 2023)
+
+* Main supervisor
+* First position: Junior Machine Learning Engineer, Trulioo, Canada
+
+**Maggie Liu** (MSc. in Statistics, 2023)
+
+* Main supervisor
+* First position: Student in Medical School, Queen's University, Canada
+
+**Jana Osea** (MSc. in Statistics, 2023)
+
+* Main supervisor
+
+**Nirupama Tamvada** (MSc. in Statistics, 2023)
+
+* Main supervisor
+* First position: Data Science Analyst, BC Centre of Disease Control
+  
+**Giuseppe Tomio** (MSc. in Statistics, co-supervisor with Dr. Keegan Korthauer, 2023)
+
+**Arafeh Bigdel** (Postdoctoral Fellow, co-supervised with Dr. Tom Blydt-Hansen, 2022)
+
+ * Main supervisor
+ * First position: Data Analyst, Harvard Medical School, US.
+
+### 2022
+
 **Arjun Baghela** (Ph.D. in Bioinformatics, 2022)
 
  * Co-upervisor with Dr. Bob Hancock
  * First position: research scientist at Merck
- 
+
+**Trevor Kwan** (MSc. in Statistics, 2022)
+
+* Main supervisor
+* First position: Junior Data Analyst, Data Science Institute, UBC, Canada
+
+### 2020
+
 **David Kepplinger** (Ph.D. in Statistics, 2020)
 
  * Main supervisor
@@ -63,6 +92,8 @@ Carlsten)
 **Joe Watson** (Ph.D. in Statistics, 2020)
 
   * Research Assistant in my lab
+
+### 2019 - 2012
 
 **Nikolas Krstic** (M.Sc. in Statistics, 2019)
 
@@ -110,7 +141,17 @@ Carlsten)
 
 **Ash Anwar** (Ph.D., Research Assistant)
 
+<br>
+
 ## In Supervisory Committee of:
+
+**William Casazza** (PhD in Bioinformatics, 2023)
+
+**Daniel He** (PhD in Experimental Medicine, 2023)
+
+**Ryan Riley** (MSc in Bioinformatics, 2023)
+
+**Tiffany Leung** (MSc in Bioinformatics, 2023)
 
 **Nathaniel Lim** (Ph.D. in GSAT, 2021)
 
