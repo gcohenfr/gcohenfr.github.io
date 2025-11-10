@@ -17,6 +17,8 @@ title: ""
 
 **Nikolas Krstic** (PhD. in Statistics, in progress)
 
+* Main supervisor
+
 <br>
 
 
