@@ -11,6 +11,10 @@ title: ""
 
 # Team Members
 
+**Maria Eugenia Bernaschini** (Postdoctoral Fellow, in progress)
+
+* Co-supervision with Matias Salibian-Barrera
+
 **Nikolas Krstic** (PhD. in Statistics, in progress)
 
 <br>
@@ -33,8 +37,9 @@ Carlsten)
  * Main supervisor
  * First position: Computational Scientist, Harvard Medical School
 
-**Abhinav Checkervarty** (PhD. in Experimental Medicine, co-supervised with Dr. Scott Tebbutt, 2024)
+**Abhinav Checkervarty** (PhD. in Experimental Medicine, 2024)
 
+* Co-supervised with Dr. Scott Tebbutt
 * First position: Postdoctoral Fellow at Dr. Scott Tebbutt's lab, UBC, Canada
 
 **Charlotte Edgar** (MSc. in Statistics, 2024)
@@ -63,7 +68,9 @@ Carlsten)
 * Main supervisor
 * First position: Data Science Analyst, BC Centre of Disease Control
   
-**Giuseppe Tomio** (MSc. in Statistics, co-supervisor with Dr. Keegan Korthauer, 2023)
+**Giuseppe Tomio** (MSc. in Statistics, 2023)
+
+* Co-supervisor with Dr. Keegan Korthauer
 
 **Arafeh Bigdel** (Postdoctoral Fellow, co-supervised with Dr. Tom Blydt-Hansen, 2022)
 
